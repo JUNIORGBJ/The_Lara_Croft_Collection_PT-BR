@@ -1,3 +1,2 @@
 # Backup
-010079C017F5E002\Romfs\resources\en.lproj/pt-br.txt
-
+*.txt
