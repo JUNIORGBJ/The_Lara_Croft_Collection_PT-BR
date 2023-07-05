@@ -1,415 +1,415 @@
-[]
-[Finalizado]
-[%02d:%02d:%02d]
-[F?�CIL]
-[NORMAL]
-[DIF?�CIL]
-[PARTIDA COMPLETADA]
-[CA?�A AO TESOURO]
-[Carregando...]
-[Desafios de pontua????o:]
-[Desafios de recompensa:]
-[PAUSA]
-[Esperando o outro jogador sair
-do menu de pausa.]
-[VOLTAR AO JOGO]
-[REIN. N?�VEL]
-[MARCADORES]
-[AJUDA E OP?�?�ES]
-[CONQUISTAS]
-[SAIR DO JOGO]
-[Voltar]
-[Selecionar]
-[Se sair do jogo, perder?? todo o progresso n??o salvo. Quer mesmo sair?]
-[Se recomeçar o nível, perder?? todo o progresso n??o salvo. Quer mesmo reiniciar o nível?]
-[Esperando pelo jogador]
-[?�? CONTINUAR]
-[?�� REIN. N?�VEL]
-[?�� SAIR DO JOGO]
-[Quer mesmo sair do jogo?]
-[Quer mesmo reiniciar o nível atual?]
-[N?�VEL
-COMPLETADO]
-[pontos]
-[Pressione ?�� para continuar]
-[PRESSIONE QUALQUER BOT?�O]
-[DESAFIO DE PONTUAÇÃO COMPLETADO]
-[DESAFIO DE RECOMPENSA COMPLETADO]
-[DESAFIO DE RECOMPENSA DISPONÍVEL]
-[EQUIPAR ARMA AUTOMATICAMENTE]
-[Salvando conte??do. Por favor, n??o desligue o console.]
-[Aceitar]
-[?�? SELECIONAR]
-[SIM]
-[NÃO]
-[Entrada do di??rio desbloqueada...]
-[Eidos Interactive]
-[Crystal Dynamics]
-[Jogador 1]
-[Jogador 2]
-[Novo traje de personagem desbloqueado]
-[Jogo completado]
-[ARMAS]
-[BARRA DE MUNIÇÃO]
-[SELE?�?�O DE ARMA]
-[Você desbloqueou uma nova arma secundária. Pressione ?�� para ver o Inventário do Jogador e equipar-se com esta arma.]
-[Sua muni????o ?? representada pela Barra de Muni????o. As armas secundárias reduziráo a Barra de Muni????o de forma diferente. Se ficar sem muni????o, voltar?? a usar sua arma padr??o.]
-[Pressione ?�� ?�� ?�� ?�� para selecionar suas armas equipadas.]
-[CORRER PELA PAREDE]
-[Quando estiver enganchado a um anel, salte sobre a parede para pendurar-se.]
-[Mova-se pela esquerda ou direita para balan??ar para frente ou para tr??s enquanto estiver pendurado na corda.]
-[SALTO COM LAN?�A]
-[Lara pode saltar pelas lan??as que ela cravou nas paredes ou outros objetos.]
-[Lara pode saltar pelas lan??as que Totec cravou nas paredes ou outros objetos. Se Totec tentar saltar sobre uma lan??a, seu peso ir?? quebr??-la.]
-[SALTO COM ESCUDO]
-[Segure ?�� para levantar o escudo de Totec por cima de sua cabe??a.]
-[Lara pode saltar do escudo para alcan??ar ??reas mais elevadas.]
-[BLOQUEIO COM ESCUDO]
-[Segure ?�� para usar o escudo de Totec para bloquear balas e ataques inimigos.]
-[REVIVER UM JOGADOR]
-[Pressione ?�� quando estiver perto de seu companheiro abatido para reviv??-lo.]
-[RELIQUIAS]
-[MEDIDOR DE POT?�NCIA DE RELIQUIA]
-[As Relíquias Equipadas d??o ao seu personagem poderosas habilidades de combate. Uma s?? relíquia pode dar aos jogadores v??rias habilidades. Para consultar as habilidades de uma relíquia, selecione-a na janela de invent??rio.]
-[S?? poder?? usar as habilidades de uma relíquia quando o Medidor de Pot??ncia de Rel?�quia estiver cheio.]
-[Para encher o Medidor de Pot??ncia, recolha gemas e mate inimigos sem sofrer danos.]
-[Quando o Medidor de Pot??ncia estiver cheio, ele esvaziar?? por completo se receber qualquer dano.]
-[MAPA DE N?�VEL DISPONÍVEL]
-[Pressione ?�� para ver o Inventário do jogador e depois ?�� para ver o mapa.]
-[ARTEFATO DESCOBERTO]
-[H?? artefatos escondidos pelo mundo. Cada artefato afetar?? os atributos de seu personagem de forma diferente. Pressione ?�� para ver o Inventário do Jogador e equipar-se com este artefato.]
-[RELÍQUIA DESCOBERTA]
-[Pressione ?�� para ver o Inventário do Jogador e equipar esta relíquia. As relíquias s??o tesouros ??nicos que d??o novas habilidades.]
-[MEDIDOR DE POT?�NCIA DE RELIQUIA]
-[A habilidade de uma relíquia s?? pode ser usada quando o Pot??ncia de Rel?�quia estiver ativada. Mate muitos inimigos sem receber dano para encher o medidor.]
-[SANTU?�RIO DE SAÚDE DESCOBERTO]
-[Se ficar perto de um Santu??rio de Sa??de, sua sa??de aumentará gradualmente. Os santu??rios se esgotar??o se forem usados por muito tempo.]
-[ESCONDERIJO DE MUNIÇÃO DESCOBERTO]
-[Um Esconderijo de Muni????o encher?? por completo sua muni????o. Estas caixas, abandonadas pelas for??as de Vasco, est??o dispersas por toda a ??rea.]
-[TUMBAS COM DESAFIOS]
-[As salas marcadas com luzes vermelhas s??o Tumbas com Desafios. Estas tumbas opcionais guardam tesouros exclusivos e desafios complexos.]
-[FUZIL DE ASSALTO DESCOBERTO]
-[Você desbloqueou uma nova arma secundária. Pressione ?�� para ver o Inventário do Jogador e equipar-se com esta arma.]
-[BARRA DE MUNIÇÃO]
-[Sua muni????o ?? representada pela Barra de Muni????o. As armas secundárias reduziráo a Barra de Muni????o de forma diferente. Se ficar sem muni????o, voltar?? a usar sua arma padr??o..]
-[CAMINHAR PELO GANCHO]
-[Totec pode saltar sobre a corda do gancho de Lara e fazer equilibrismo quando a corda estiver enganchada a um anel dourado.]
-[ESCALAR PELO GANCHO]
-[Segure ?�� para lan??ar o gancho de Lara para Totec.]
-[Mova-se para cima ou para baixo para subir ou descer pela corda quando estiver dependurado.]
-[Segure ?�� para lan??ar o gancho de Lara num anel dourado.]
-[Mova-se para cima ou para baixo para subir ou descer pela corda quando estiver dependurado.]
-[APONTAR COM O GANCHO]
-[Use ?�� para apontar para Totec e segure ?�� para lan??ar a corda.]
-[Use o mouse para apontar para Totec e segure ?�� para lan??ar a corda.]
-[ARTEFATOS]
-[Os artefatos afetam os atributos de seus personagens de forma positiva e negativa. Pode equipar-se com dois artefatos que melhorem o mesmo atributo para conseguir uma for??a maior.]
-[SACAR E APONTAR ARMAS]
-[APONTAR E DISPARAR]
-[DESVIAR E DISPARAR]
-[Use ?�� para SACAR e APONTAR com suas armas.]
-[Pressione ?�� para SACAR e use o mouse para APONTAR com suas armas.]
-[SEGURE ?�� com as armas sacadas para disparar de forma cont?�nua.]
-[Você pode mover-se enquanto aponta e dispara.]
-[Lan??a]
-[Pistolas]
-[Fuzil de assalto]
-[Magnums]
-[Escopeta]
-[Fuzil de ferrolho]
-[Escopeta automática]
-[Lan??a-chamas]
-[Fuzil de a????o r??pida]
-[AR-06]
-[Subfuzis leves]
-[Escopeta de duplo cano]
-[Lan??a-granadas]
-[Canhão de missão]
-[Fuzil de assalto de grande potência]
-[Pistolas automáticas]
-[Lan??a-chamas de grande potência]
-[Fuzil de tiro ??nico de grande potência]
-[Subfuzil]
-[Metralhadora automática]
-[Lan??a de fogo]
-[Lan??a-foguetes]
-[Lan??a-granadas pesado]
-[Subfuzil duplo]
-[Canhão de raio]
-[Escopeta de grande potência]
-[Escopeta dourada]
-[Lan??a da luz]
-[Lan??a das trevas]
-[Coruja de argila]
-[DEFESA +1, BOMBA -1]
-[Este artefato de um antigo guerreiro aumentará sua defesa e reduzirá a potência de suas bombas quando estiver equipado.]
-[Coruja de pedra]
-[DEFESA +1, ARMA -1]
-[Este artefato de um antigo guerreiro aumentará sua defesa e reduzirá a potência de sua arma quando estiver equipado.]
-[Coruja dourada]
-[DEFESA +1]
-[Este artefato de um antigo guerreiro aumentará sua defesa quando estiver equipado.]
-[Pena de argila]
-[VELOCIDADE +1, DEFESA -1]
-[Este artefato de um antigo guerreiro aumentará sua velocidade em combate e reduzirá sua defesa quando estiver equipado.]
-[Pena de pedra]
-[VELOCIDADE +1, BOMBA -1]
-[Este artefato de um antigo guerreiro aumentará sua velocidade em combate e reduzirá a for??a de suas bombas quando estiver equipado.]
-[Pena dourada]
-[VELOCIDADE +1]
-[Este artefato de um antigo guerreiro aumentará sua velocidade em combate quando estiver equipado.]
-[Flecha de argila]
-[ARMA +1, DEFESA -1]
-[Este artefato de um antigo guerreiro aumentará a potência de sua arma e reduzirá sua defesa quando estiver equipado.]
-[Flecha de pedra]
-[ARMA +1, BOMBA -1]
-[Este artefato de um antigo guerreiro aumentará a potência de sua arma e reduzirá a de suas bombas quando estiver equipado.]
-[Flecha dourada]
-[ARMA +1]
-[Este artefato de um antigo guerreiro aumentará a potência de sua arma quando estiver equipado.]
-[Lagarto de argila]
-[BOMBA +1, ARMA -1]
-[Este artefato de um antigo guerreiro aumentará a potência de suas bombas e reduzirá a de sua arma quando estiver equipado.]
-[Lagarto de pedra]
-[BOMBA +1, DEFESA -1]
-[Este artefato de um antigo guerreiro aumentará a potência de suas bombas e reduzirá sua defesa quando estiver equipado.]
-[Lagarto dourado]
-[BOMBA +1]
-[Este artefato de um antigo guerreiro aumentará a potência de suas bombas quando estiver equipado.]
-[Tambor de guerra]
-[ARMA +1, BOMBA +1]
-[Este artefato de um antigo guerreiro aumentará a potência de sua arma e a de suas bombas quando estiver equipado.]
-[Tambor de vento]
-[VELOCIDADE +1, ARMA +1]
-[Este artefato de um antigo guerreiro aumentará sua velocidade em combate e a for??a de sua arma quando estiver equipado.]
-[Tambor de serpente]
-[VELOCIDADE +1, BOMBA +1]
-[Este artefato de um antigo guerreiro aumentará sua velocidade em combate e a for??a de suas bombas quando estiver equipado.]
-[Tambor branco]
-[DEFESA +1, VELOCIDADE +1]
-[Este artefato de um antigo guerreiro aumentará sua defesa e velocidade quando estiver equipado.]
-[Tambor escuro]
-[DEFESA +1, ARMA +1]
-[Este artefato de um antigo guerreiro aumentará a potência de sua arma e sua defesa quando estiver equipado.]
-[Serpente de pedra]
-[ARMA +1, BOMBA +1, DEFESA +1]
-[Este artefato de um antigo guerreiro aumentará a potência de sua arma e bombas e sua defesa quando estiver equipado.]
-[Serpente de argila]
-[VELOCIDADE +1, DEFESA +1, BOMBA +1]
-[Este artefato de um antigo guerreiro aumentará sua velocidade em combate, sua defesa e a for??a de suas bombas quando estiver equipado.]
-[Cora????o de jade]
-[VELOCIDADE +1, DEFESA +1, BOMBA +1, ARMA +1]
-[Este artefato de um antigo guerreiro aumentará sua velocidade em combate, sua defesa e a for??a de suas bombas e arma quando estiver equipado.]
-[faca de Itzli]
-[DISPARO POTENTE]
-[Os Deuses criaram este artefato para aumentar a potência da arma de um guerreiro.]
-[Olho de Cipactli]
-[BOMBA POTENTE]
-[Coroa de Ehecatl]
-[VELOCIDADE AUMENTADA]
-[Os Deuses criaram este artefato para aumentar a velocidade dos guerreiros.]
-[Cetro de Huitzilopochtli]
-[REGENERAR SAÚDE]
-[Cetro de Cihuacoatl]
-[REGENERAR MUNIÇÃO]
-[Os Deuses criaram este artefato para aumentar a muni????o dos guerreiros.]
-[Flecha de Tezcatlipoca]
-[DISPARO EXPLOSIVO]
-[Os Deuses criaram este artefato para que a arma de um guerreiro tenha de m??ltiplos ataques.]
-[Duas flechas de Tezcatlipoca]
-[DISPARO EXPLOSIVO, REGENERAR SAÚDE]
-[Os Deuses criaram este artefato para aumentar a sa??de dos guerreiros e para que sua arma tenha m??ltiplos ataques.]
-[Tr??s flechas de Tezcatlipoca]
-[DISPARO EXPLOSIVO, BOMBA POTENTE]
-[Olho dourado de Cipactli]
-[BOMBA POTENTE, VELOCIDADE AUMENTADA]
-[Faca dourada de Itzli]
-[DISPARO POTENTE, BOMBA POTENTE]
-[Cetro dourado de Huitzilopochtli]
-[REGENERAR SAÚDE, REGENERAR MUNIÇÃO]
-[Cetro dourado de Cihuacoatl]
-[REGENERAR MUNIÇÃO, DISPARO EXPLOSIVO]
-[Os Deuses criaram este artefato para aumentar a muni????o dos guerreiros e para que sua arma tenha m??ltiplos ataques.]
-[Flecha dourada de Tezcatlipoca]
-[DISPARO EXPLOSIVO, DISPARO POTENTE]
-[Máscara de Tezcatlipoca]
-[DISPARO POTENTE, BOMBA POTENTE, DISPARO EXPLOSIVO]
-[Máscara de Ehecatl]
-[VELOCIDADE AUMENTADA, REGENERAR SAÚDE, REGENERAR MUNIÇÃO]
-[Máscara de Itzli]
-[REGENERAR SAÚDE, REGENERAR MUNIÇÃO, DISPARO POTENTE]
-[Máscara de Cipactli]
-[BOMBA POTENTE, VELOCIDADE AUMENTADA, REGENERAR SAÚDE]
-[Punho de Tezcatlipoca]
-[DISPARO POTENTE, BOMBA POTENTE, REGENERAR MUNIÇÃO, DISPARO EXPLOSIVO]
-[Sud??rio dourado de Cihuacoatl]
-[REGENERAR SAÚDE, REGENERAR MUNIÇÃO, VELOCIDADE AUMENTADA, BOMBA POTENTE]
-[Máscara de Xolotl]
-[DISPARO POTENTE, BOMBA POTENTE, VELOCIDADE AUMENTADA, REGENERAR SAÚDE, REGENERAR MUNIÇÃO, DISPARO EXPLOSIVO]
-[Lara Croft]
-[Totec]
-[Raziel]
-[Kain]
-[Traje para bicicleta de Lara Croft]
-[Traje para selva de Lara Croft]
-[Traje pesado para selva de Lara Croft]
-[Traje de Lara Croft Legend]
-[Kane]
-[Lynch]
-[Doppelganger]
-[Aviso de epilepsia fotosensitiva]
-[Se você ou algum membro de sua família tiver hist??ria de epilepsia, consulte seu m??dico antes de jogar. Certas imagens podem provocar um ataque mesmo em pessoas sem antecedentes epil??pticos. Antes de jogar, leia os cr??ditos para mais informa????es.
+= "";
+= "Finalizado";
+= "%02d:%02d:%02d";
+= "FÁCIL";
+= "NORMAL";
+= "DIFÍCIL";
+= "PARTIDA COMPLETADA";
+= "CAÇA AO TESOURO";
+= "Carregando...";
+= "Desafios de pontua????o:";
+= "Desafios de recompensa:";
+= "PAUSA";
+= "Esperando o outro jogador sair
+do menu de pausa.";
+= "VOLTAR AO JOGO";
+= "REIN. NÍVEL";
+= "MARCADORES";
+= "AJUDA E OPÇÕES";
+= "CONQUISTAS";
+= "SAIR DO JOGO";
+= "Voltar";
+= "Selecionar";
+= "Se sair do jogo, perder?? todo o progresso n??o salvo. Quer mesmo sair?";
+= "Se recomeçar o nível, perder?? todo o progresso n??o salvo. Quer mesmo reiniciar o nível?";
+= "Esperando pelo jogador";
+= "?�? CONTINUAR";
+= "?�� REIN. N?�VEL";
+= "?�� SAIR DO JOGO";
+= "Quer mesmo sair do jogo?";
+= "Quer mesmo reiniciar o nível atual?";
+= "NÍVEL
+COMPLETADO";
+= "pontos";
+= "Pressione ?�� para continuar";
+= "PRESSIONE QUALQUER BOTÃO";
+= "DESAFIO DE PONTUAÇÃO COMPLETADO";
+= "DESAFIO DE RECOMPENSA COMPLETADO";
+= "DESAFIO DE RECOMPENSA DISPONÍVEL";
+= "EQUIPAR ARMA AUTOMATICAMENTE";
+= "Salvando conte??do. Por favor, n??o desligue o console.";
+= "Aceitar";
+= "?�? SELECIONAR";
+= "SIM";
+= "NÃO";
+= "Entrada do di??rio desbloqueada...";
+= "Eidos Interactive";
+= "Crystal Dynamics";
+= "Jogador 1";
+= "Jogador 2";
+= "Novo traje de personagem desbloqueado";
+= "Jogo completado";
+= "ARMAS";
+= "BARRA DE MUNIÇÃO";
+= "SELEÇÃO DE ARMA";
+= "Você desbloqueou uma nova arma secundária. Pressione ?�� para ver o Inventário do Jogador e equipar-se com esta arma.";
+= "Sua munição ?? representada pela Barra de Munição. As armas secundárias reduziráo a Barra de Munição de forma diferente. Se ficar sem muni????o, voltar?? a usar sua arma padr??o.";
+= "Pressione ?�� ?�� ?�� ?�� para selecionar suas armas equipadas.";
+= "CORRER PELA PAREDE";
+= "Quando estiver enganchado a um anel, salte sobre a parede para pendurar-se.";
+= "Mova-se pela esquerda ou direita para balnçar para frente ou para tr??s enquanto estiver pendurado na corda.";
+= "SALTO COM LANÇA";
+= "Lara pode saltar pelas lanças que ela cravou nas paredes ou outros objetos.";
+= "Lara pode saltar pelas lanças que Totec cravou nas paredes ou outros objetos. Se Totec tentar saltar sobre uma lança, seu peso irá quebrá-la.";
+= "SALTO COM ESCUDO";
+= "Segure ?�� para levantar o escudo de Totec por cima de sua cabeça.";
+= "Lara pode saltar do escudo para alcançar aéreas mais elevadas.";
+= "BLOQUEIO COM ESCUDO";
+= "Segure ?�� para usar o escudo de Totec para bloquear balas e ataques inimigos.";
+= "REVIVER UM JOGADOR";
+= "Pressione ?�� quando estiver perto de seu companheiro abatido para revivê-lo.";
+= "RELÍQUIAS";
+= "MEDIDOR DE POTÊNCIA DE RELÍQUIA";
+= "As Relíquias Equipadas dão ao seu personagem poderosas habilidades de combate. Uma só relíquia pode dar aos jogadores v??rias habilidades. Para consultar as habilidades de uma relíquia, selecione-a na janela de inventário.";
+= "S?? poder?? usar as habilidades de uma relíquia quando o Medidor de Potência de Relíquia estiver cheio.";
+= "Para encher o Medidor de Potência, recolha gemas e mate inimigos sem sofrer danos.";
+= "Quando o Medidor de Potência estiver cheio, ele esvaziar?? por completo se receber qualquer dano.";
+= "MAPA DE NÍVEL DISPONÍVEL";
+= "Pressione ?�� para ver o Inventário do jogador e depois ?�� para ver o mapa.";
+= "ARTEFATO DESCOBERTO";
+= "H?? artefatos escondidos pelo mundo. Cada artefato afetar?? os atributos de seu personagem de forma diferente. Pressione ?�� para ver o Inventário do Jogador e equipar-se com este artefato.";
+= "RELÍQUIA DESCOBERTA";
+= "Pressione ?�� para ver o Inventário do Jogador e equipar esta relíquia. As relíquias são tesouros únicos que dão novas habilidades.";
+= "MEDIDOR DE POTÊNCIA DE RELIQUIA";
+= "A habilidade de uma relíquia só pode ser usada quando o Potência de Relíquia estiver ativada. Mate muitos inimigos sem receber dano para encher o medidor.";
+= "SANTUÁRIO DE SAÚDE DESCOBERTO";
+= "Se ficar perto de um Santuário de Sa??de, sua sa??de aumentará gradualmente. Os santu??rios se esgotar??o se forem usados por muito tempo.";
+= "ESCONDERIJO DE MUNIÇÃO DESCOBERTO";
+= "Um Esconderijo de Munição encher?? por completo sua muni????o. Estas caixas, abandonadas pelas for??as de Vasco, est??o dispersas por toda a ??rea.";
+= "TUMBAS COM DESAFIOS";
+= "As salas marcadas com luzes vermelhas são Tumbas com Desafios. Estas tumbas opcionais guardam tesouros exclusivos e desafios complexos.";
+= "FUZIL DE ASSALTO DESCOBERTO";
+= "Você desbloqueou uma nova arma secundária. Pressione ?�� para ver o Inventário do Jogador e equipar-se com esta arma.";
+= "BARRA DE MUNIÇÃO";
+= "Sua muni????o ?? representada pela Barra de Munição. As armas secundárias reduziráo a Barra de Munição de forma diferente. Se ficar sem muni????o, voltar?? a usar sua arma padr??o..";
+= "CAMINHAR PELO GANCHO";
+= "Totec pode saltar sobre a corda do gancho de Lara e fazer equilibrismo quando a corda estiver enganchada a um anel dourado.";
+= "ESCALAR PELO GANCHO";
+= "Segure ?�� para lançar o gancho de Lara para Totec.";
+= "Mova-se para cima ou para baixo para subir ou descer pela corda quando estiver dependurado.";
+= "Segure ?�� para lançar o gancho de Lara num anel dourado.";
+= "Mova-se para cima ou para baixo para subir ou descer pela corda quando estiver dependurado.";
+= "APONTAR COM O GANCHO";
+= "Use ?�� para apontar para Totec e segure ?�� para lançar a corda.";
+= "Use o mouse para apontar para Totec e segure ?�� para lançar a corda.";
+= "ARTEFATOS";
+= "Os artefatos afetam os atributos de seus personagens de forma positiva e negativa. Pode equipar-se com dois artefatos que melhorem o mesmo atributo para conseguir uma for??a maior.";
+= "SACAR E APONTAR ARMAS";
+= "APONTAR E DISPARAR";
+= "DESVIAR E DISPARAR";
+= "Use ?�� para SACAR e APONTAR com suas armas.";
+= "Pressione ?�� para SACAR e use o mouse para APONTAR com suas armas.";
+= "SEGURE ?�� com as armas sacadas para disparar de forma cont?�nua.";
+= "Você pode mover-se enquanto aponta e dispara.";
+= "Lan??a";
+= "Pistolas";
+= "Fuzil de assalto";
+= "Magnums";
+= "Escopeta";
+= "Fuzil de ferrolho";
+= "Escopeta automática";
+= "Lan??a-chamas";
+= "Fuzil de a????o r??pida";
+= "AR-06";
+= "Subfuzis leves";
+= "Escopeta de duplo cano";
+= "Lan??a-granadas";
+= "Canhão de missão";
+= "Fuzil de assalto de grande potência";
+= "Pistolas automáticas";
+= "Lan??a-chamas de grande potência";
+= "Fuzil de tiro ??nico de grande potência";
+= "Subfuzil";
+= "Metralhadora automática";
+= "Lan??a de fogo";
+= "Lan??a-foguetes";
+= "Lan??a-granadas pesado";
+= "Subfuzil duplo";
+= "Canhão de raio";
+= "Escopeta de grande potência";
+= "Escopeta dourada";
+= "Lan??a da luz";
+= "Lan??a das trevas";
+= "Coruja de argila";
+= "DEFESA +1, BOMBA -1";
+= "Este artefato de um antigo guerreiro aumentará sua defesa e reduzirá a potência de suas bombas quando estiver equipado.";
+= "Coruja de pedra";
+= "DEFESA +1, ARMA -1";
+= "Este artefato de um antigo guerreiro aumentará sua defesa e reduzirá a potência de sua arma quando estiver equipado.";
+= "Coruja dourada";
+= "DEFESA +1";
+= "Este artefato de um antigo guerreiro aumentará sua defesa quando estiver equipado.";
+= "Pena de argila";
+= "VELOCIDADE +1, DEFESA -1";
+= "Este artefato de um antigo guerreiro aumentará sua velocidade em combate e reduzirá sua defesa quando estiver equipado.";
+= "Pena de pedra";
+= "VELOCIDADE +1, BOMBA -1";
+= "Este artefato de um antigo guerreiro aumentará sua velocidade em combate e reduzirá a for??a de suas bombas quando estiver equipado.";
+= "Pena dourada";
+= "VELOCIDADE +1";
+= "Este artefato de um antigo guerreiro aumentará sua velocidade em combate quando estiver equipado.";
+= "Flecha de argila";
+= "ARMA +1, DEFESA -1";
+= "Este artefato de um antigo guerreiro aumentará a potência de sua arma e reduzirá sua defesa quando estiver equipado.";
+= "Flecha de pedra";
+= "ARMA +1, BOMBA -1";
+= "Este artefato de um antigo guerreiro aumentará a potência de sua arma e reduzirá a de suas bombas quando estiver equipado.";
+= "Flecha dourada";
+= "ARMA +1";
+= "Este artefato de um antigo guerreiro aumentará a potência de sua arma quando estiver equipado.";
+= "Lagarto de argila";
+= "BOMBA +1, ARMA -1";
+= "Este artefato de um antigo guerreiro aumentará a potência de suas bombas e reduzirá a de sua arma quando estiver equipado.";
+= "Lagarto de pedra";
+= "BOMBA +1, DEFESA -1";
+= "Este artefato de um antigo guerreiro aumentará a potência de suas bombas e reduzirá sua defesa quando estiver equipado.";
+= "Lagarto dourado";
+= "BOMBA +1";
+= "Este artefato de um antigo guerreiro aumentará a potência de suas bombas quando estiver equipado.";
+= "Tambor de guerra";
+= "ARMA +1, BOMBA +1";
+= "Este artefato de um antigo guerreiro aumentará a potência de sua arma e a de suas bombas quando estiver equipado.";
+= "Tambor de vento";
+= "VELOCIDADE +1, ARMA +1";
+= "Este artefato de um antigo guerreiro aumentará sua velocidade em combate e a for??a de sua arma quando estiver equipado.";
+= "Tambor de serpente";
+= "VELOCIDADE +1, BOMBA +1";
+= "Este artefato de um antigo guerreiro aumentará sua velocidade em combate e a for??a de suas bombas quando estiver equipado.";
+= "Tambor branco";
+= "DEFESA +1, VELOCIDADE +1";
+= "Este artefato de um antigo guerreiro aumentará sua defesa e velocidade quando estiver equipado.";
+= "Tambor escuro";
+= "DEFESA +1, ARMA +1";
+= "Este artefato de um antigo guerreiro aumentará a potência de sua arma e sua defesa quando estiver equipado.";
+= "Serpente de pedra";
+= "ARMA +1, BOMBA +1, DEFESA +1";
+= "Este artefato de um antigo guerreiro aumentará a potência de sua arma e bombas e sua defesa quando estiver equipado.";
+= "Serpente de argila";
+= "VELOCIDADE +1, DEFESA +1, BOMBA +1";
+= "Este artefato de um antigo guerreiro aumentará sua velocidade em combate, sua defesa e a for??a de suas bombas quando estiver equipado.";
+= "Cora????o de jade";
+= "VELOCIDADE +1, DEFESA +1, BOMBA +1, ARMA +1";
+= "Este artefato de um antigo guerreiro aumentará sua velocidade em combate, sua defesa e a for??a de suas bombas e arma quando estiver equipado.";
+= "faca de Itzli";
+= "DISPARO POTENTE";
+= "Os Deuses criaram este artefato para aumentar a potência da arma de um guerreiro.";
+= "Olho de Cipactli";
+= "BOMBA POTENTE";
+= "Coroa de Ehecatl";
+= "VELOCIDADE AUMENTADA";
+= "Os Deuses criaram este artefato para aumentar a velocidade dos guerreiros.";
+= "Cetro de Huitzilopochtli";
+= "REGENERAR SAÚDE";
+= "Cetro de Cihuacoatl";
+= "REGENERAR MUNIÇÃO";
+= "Os Deuses criaram este artefato para aumentar a muni????o dos guerreiros.";
+= "Flecha de Tezcatlipoca";
+= "DISPARO EXPLOSIVO";
+= "Os Deuses criaram este artefato para que a arma de um guerreiro tenha de m??ltiplos ataques.";
+= "Duas flechas de Tezcatlipoca";
+= "DISPARO EXPLOSIVO, REGENERAR SAÚDE";
+= "Os Deuses criaram este artefato para aumentar a sa??de dos guerreiros e para que sua arma tenha m??ltiplos ataques.";
+= "Tr??s flechas de Tezcatlipoca";
+= "DISPARO EXPLOSIVO, BOMBA POTENTE";
+= "Olho dourado de Cipactli";
+= "BOMBA POTENTE, VELOCIDADE AUMENTADA";
+= "Faca dourada de Itzli";
+= "DISPARO POTENTE, BOMBA POTENTE";
+= "Cetro dourado de Huitzilopochtli";
+= "REGENERAR SAÚDE, REGENERAR MUNIÇÃO";
+= "Cetro dourado de Cihuacoatl";
+= "REGENERAR MUNIÇÃO, DISPARO EXPLOSIVO";
+= "Os Deuses criaram este artefato para aumentar a muni????o dos guerreiros e para que sua arma tenha m??ltiplos ataques.";
+= "Flecha dourada de Tezcatlipoca";
+= "DISPARO EXPLOSIVO, DISPARO POTENTE";
+= "Máscara de Tezcatlipoca";
+= "DISPARO POTENTE, BOMBA POTENTE, DISPARO EXPLOSIVO";
+= "Máscara de Ehecatl";
+= "VELOCIDADE AUMENTADA, REGENERAR SAÚDE, REGENERAR MUNIÇÃO";
+= "Máscara de Itzli";
+= "REGENERAR SAÚDE, REGENERAR MUNIÇÃO, DISPARO POTENTE";
+= "Máscara de Cipactli";
+= "BOMBA POTENTE, VELOCIDADE AUMENTADA, REGENERAR SAÚDE";
+= "Punho de Tezcatlipoca";
+= "DISPARO POTENTE, BOMBA POTENTE, REGENERAR MUNIÇÃO, DISPARO EXPLOSIVO";
+= "Sud??rio dourado de Cihuacoatl";
+= "REGENERAR SAÚDE, REGENERAR MUNIÇÃO, VELOCIDADE AUMENTADA, BOMBA POTENTE";
+= "Máscara de Xolotl";
+= "DISPARO POTENTE, BOMBA POTENTE, VELOCIDADE AUMENTADA, REGENERAR SAÚDE, REGENERAR MUNIÇÃO, DISPARO EXPLOSIVO";
+= "Lara Croft";
+= "Totec";
+= "Raziel";
+= "Kain";
+= "Traje para bicicleta de Lara Croft";
+= "Traje para selva de Lara Croft";
+= "Traje pesado para selva de Lara Croft";
+= "Traje de Lara Croft Legend";
+= "Kane";
+= "Lynch";
+= "Doppelganger";
+= "Aviso de epilepsia fotosensitiva";
+= "Se você ou algum membro de sua família tiver hist??ria de epilepsia, consulte seu m??dico antes de jogar. Certas imagens podem provocar um ataque mesmo em pessoas sem antecedentes epiléticos. Antes de jogar, leia os cr??ditos para mais informa????es.
 
-GameVicio Brasil - http://www.gamevicio.com.br]
-[Advertência: você escolheu começar uma nova partida sem ter iniciado sess??o em um perfil. N??o poder?? salvar o progresso ou ter acesso aos menus online. Quer iniciar a sess??o agora?]
-[Deve selecionar um dispositivo de armazenagem para salvar. Quer selecionar agora?]
-[Lara Croft e o Guardi??o da Luz ?? Eidos Interactive Ltd. 2008.  Desenvolvido por Crystal Dynamics Inc. Publicado nos EUA, Canad?? e M??xico por Eidos, Inc. e Warner Bros Home Entertainment.  Publicado nos outros pa?�ses por Eidos Interactive Limited. Tomb Raider, Lara Croft e o Guardi??o da Luz, Crystal Dynamics, o logotipo Crystal Dynamics, Eidos e o logotipo Eidos s??o marcas registradas da Eidos Interactive Ltd. O ?�cone de classifica????o ?? uma marca registrada da Entertainment Software Association. Todas as outras marcas registradas s??o propriedade de seus respectivos donos.  Todos os direitos reservados.
+GameVicio Brasil - http://www.gamevicio.com.br";
+= "Advertência: você escolheu começar uma nova partida sem ter iniciado sessão em um perfil. N??o poder?? salvar o progresso ou ter acesso aos menus online. Quer iniciar a sessão agora?";
+= "Deve selecionar um dispositivo de armazenagem para salvar. Quer selecionar agora?";
+= "Lara Croft e o Guardi??o da Luz ?? Eidos Interactive Ltd. 2008.  Desenvolvido por Crystal Dynamics Inc. Publicado nos EUA, Canad?? e M??xico por Eidos, Inc. e Warner Bros Home Entertainment.  Publicado nos outros pa?�ses por Eidos Interactive Limited. Tomb Raider, Lara Croft e o Guardi??o da Luz, Crystal Dynamics, o logotipo Crystal Dynamics, Eidos e o logotipo Eidos são marcas registradas da Eidos Interactive Ltd. O ?�cone de classifica????o ?? uma marca registrada da Entertainment Software Association. Todas as outras marcas registradas são propriedade de seus respectivos donos.  Todos os direitos reservados.
 
-]
-[PRESSIONE START]
-[Quer mesmo voltar para o Windows?]
-[UM JOGADOR]
-[MULTIPLAYER]
-[DESBLOQUEAR JOGO COMPLETO]
-[BAIXAR CONTEÚDO]
-[CONTEÚDO BAIXAVÉL]
-[?�? VOLTAR]
-[?�� MUDAR TRAJE]
-[VOLTAR AO MENU ANTERIOR]
-[?�� Mostrar o perfil de jogador]
-[?�� Convidar amigos]
-[Convidar para Xbox LIVE Party]
-[Obtendo dados]
-[Quer mesmo sair da sala?]
-[Se escolher começar o nível selecionado, os progressos obtidos desde o ??ltimo ponto de controle salvo ser??o sobrescritos. Quer continuar?]
-[Continuar]
-[Melhor pontua????o:]
-[Melhor tempo:]
-[Armas:]
-[Relíquias:]
-[Artefatos:]
-[Melhorias:]
-[Tempo total:]
-[Pontuação total:]
-[Recompensa secreta]
-[COMO SE JOGA]
-[CONTROLES]
-[SOM]
-[GR?�FICOS]
-[JOGO]
-[CR?�DITOS]
-[VOLTAR AO MENU]
-[COMO SE JOGA]
-[CONTROLES B?�SICOS]
-[CORRER: 
-- Use as teclas de dire????o ou o manche para mover-se para qualquer parte.]
-[SALTAR: 
+";
+= "PRESSIONE START";
+= "Quer mesmo voltar para o Windows?";
+= "UM JOGADOR";
+= "MULTIPLAYER";
+= "DESBLOQUEAR JOGO COMPLETO";
+= "BAIXAR CONTEÚDO";
+= "CONTEÚDO BAIXAVÉL";
+= "?�? VOLTAR";
+= "?�� MUDAR TRAJE";
+= "VOLTAR AO MENU ANTERIOR";
+= "?�� Mostrar o perfil de jogador";
+= "?�� Convidar amigos";
+= "Convidar para Xbox LIVE Party";
+= "Obtendo dados";
+= "Quer mesmo sair da sala?";
+= "Se escolher começar o nível selecionado, os progressos obtidos desde o ??ltimo ponto de controle salvo ser??o sobrescritos. Quer continuar?";
+= "Continuar";
+= "Melhor pontua????o:";
+= "Melhor tempo:";
+= "Armas:";
+= "Relíquias:";
+= "Artefatos:";
+= "Melhorias:";
+= "Tempo total:";
+= "Pontuação total:";
+= "Recompensa secreta";
+= "COMO SE JOGA";
+= "CONTROLES";
+= "SOM";
+= "GR?�FICOS";
+= "JOGO";
+= "CR?�DITOS";
+= "VOLTAR AO MENU";
+= "COMO SE JOGA";
+= "CONTROLES B?�SICOS";
+= "CORRER: 
+- Use as teclas de dire????o ou o manche para mover-se para qualquer parte.";
+= "SALTAR: 
 - Pressione ?�� para saltar.
-- Segure ?�� para aumentar a dist??ncia do salto.]
-[ESQUIVAR: 
-- Pressione ?�� e qualquer dire????o para esquivar.]
-[LARGAR: 
-- Pressione ?�� para largar quando estiver dependurado, sobre uma lan??a ou em uma corda.]
-[BOMBAS ?� DIST?�NCIA: 
-- Pressione ?�� para soltar uma bomba e ?�� de novo para deton??-la.
-- As bombas podem ser usadas para destruir ou mover objetos.]
-[INTERAGIR: 
-- Pressione ?�� para interagir com determinados objetos.]
-[CONTROLES DE COMBATE]
-[APONTAR E DISPARAR: 
+- Segure ?�� para aumentar a dist??ncia do salto.";
+= "ESQUIVAR: 
+- Pressione ?�� e qualquer dire????o para esquivar.";
+= "LARGAR: 
+- Pressione ?�� para largar quando estiver dependurado, sobre uma lança ou em uma corda.";
+= "BOMBAS ?� DISTÂNCIA: 
+- Pressione ?�� para soltar uma bomba e ?�� de novo para detoná-la.
+- As bombas podem ser usadas para destruir ou mover objetos.";
+= "INTERAGIR: 
+- Pressione ?�� para interagir com determinados objetos.";
+= "CONTROLES DE COMBATE";
+= "APONTAR E DISPARAR: 
 - Use ?�� para apontar e disparar com as armas.
-- Com as armas sacadas, segure ?�� para dispar??-las de forma cont?�nua.
-- Use ?�� para deslocar-se enquanto aponta e dispara.]
-[APONTAR E DISPARAR: 
+- Com as armas sacadas, segure ?�� para dispará-las de forma cont?�nua.
+- Use ?�� para deslocar-se enquanto aponta e dispara.";
+= "APONTAR E DISPARAR: 
 - Pressione ?�� para desembainhar e o mouse para apontar.
-- Com as armas sacadas, segure ?�� para dispar??-las de forma cont?�nua.
-- Pode mover-se enquanto aponta e dispara.]
-[BOMBAS ?� DIST?�NCIA: 
-- Pressione ?�� para lan??ar uma bomba e volte a pressionar ?�� para deton??-la.]
-[ESQUIVAR: 
-- Pressione ?�� e qualquer dire????o para esquivar-se de ataques inimigos.]
-[EQUIPAR ARMAS: 
-- Para equipar novas armas, pressione ?�� e selecione a janela de invent??rio.
-- As armas podem ser equipadas em qualquer um dos tr??s espa??os dispon?�veis.]
-[TROCAR DE ARMA:
-- Use ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.]
-[HABILIDADES DO MODO UM JOGADOR]
-[LAN?�AS:
-- Lara pode saltar nas lan??as que cravou nas paredes ou outros objetos.]
-[CONTROLES DO GANCHO:
-- Segure ?�� para lan??ar o gancho de Lara num anel dourado.
+- Com as armas sacadas, segure ?�� para dispará-las de forma cont?�nua.
+- Pode mover-se enquanto aponta e dispara.";
+= "BOMBAS ?� DISTÂNCIA: 
+- Pressione ?�� para lançar uma bomba e volte a pressionar ?�� para detoná-la.";
+= "ESQUIVAR: 
+- Pressione ?�� e qualquer dire????o para esquivar-se de ataques inimigos.";
+= "EQUIPAR ARMAS: 
+- Para equipar novas armas, pressione ?�� e selecione a janela de inventário.
+- As armas podem ser equipadas em qualquer um dos tr??s espa??os dispon?�veis.";
+= "TROCAR DE ARMA:
+- Use ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.";
+= "HABILIDADES DO MODO UM JOGADOR";
+= "LANÇAS:
+- Lara pode saltar nas lanças que cravou nas paredes ou outros objetos.";
+= "CONTROLES DO GANCHO:
+- Segure ?�� para lançar o gancho de Lara num anel dourado.
 - Mova-se para cima ou para baixo para subir ou descer pela corda enquanto estiver dependurado.
-- Mova-se para a direita ou esquerda para balan??ar enquanto estiver dependurado na corda do gancho.]
-[HABILIDADES MULTIPLAYER (1 de 2)]
-[HABILIDADES MULTIPLAYER (2 de 2)]
-[CONTROLES DO GANCHO:
-- Segure ?�� para lan??ar o gancho de Lara a Totec ou num anel dourado.
+- Mova-se para a direita ou esquerda para balnçar enquanto estiver dependurado na corda do gancho.";
+= "HABILIDADES MULTIPLAYER (1 de 2)";
+= "HABILIDADES MULTIPLAYER (2 de 2)";
+= "CONTROLES DO GANCHO:
+- Segure ?�� para lançar o gancho de Lara a Totec ou num anel dourado.
 - Mova-se para cima ou para baixo para subir ou descer pela corda enquanto estiver dependurado.
-- Mova-se para a direita ou esquerda para balan??ar enquanto estiver dependurado na corda do gancho.]
-[CAMINHAR PELO GANCHO:
-- Totec pode saltar sobre a corda do gancho de Lara e fazer equilibrismo quando a corda estiver enganchada num anel dourado.]
-[LAN?�AS:
-- Lara pode saltar nas lan??as que Totec cravou nas paredes ou outros objetos.
-- Se Totec tentar saltar sobre uma lan??a, seu peso a quebrar??.]
-[ESCUDO-PLATAFORMA:
-- Segure ?�� para levantar o escudo de Totec por cima de sua cabe??a.
-- Lara pode saltar no escudo de Totec para alcan??ar ??reas mais elevadas.]
-[BLOQUEIO COM ESCUDO:
-- Segure ?�� para bloquear balas e ataques inimigos.]
-[REVIVIR SEU COMPANHEIRO:
-- Pressione ?�� enquanto estiver perto de seu companheiro abatido para reviv??-lo instantaneamente.]
-[MELHORIAS E RECOMPENSAS DO JOGADOR]
-[RELIQUIAS:
-- As relíquias equipadas d??o a seu personagem habilidades muito potentes.
-- Uma s?? relíquia pode dar v??rias habilidades.
-- Para ver as habilidades de uma relíquia, selecione-a na janela de invent??rio.
-]
-[MEDIDOR DE RELÍQUIAS:
-- As habilidades de uma relíquia s?? poder??o ser usadas quando seu Medidor de Pot??ncia de Rel?�quia estiver cheio.
+- Mova-se para a direita ou esquerda para balnçar enquanto estiver dependurado na corda do gancho.";
+= "CAMINHAR PELO GANCHO:
+- Totec pode saltar sobre a corda do gancho de Lara e fazer equilibrismo quando a corda estiver enganchada num anel dourado.";
+= "LANÇAS:
+- Lara pode saltar nas lanças que Totec cravou nas paredes ou outros objetos.
+- Se Totec tentar saltar sobre uma lança, seu peso a quebrar??.";
+= "ESCUDO-PLATAFORMA:
+- Segure ?�� para levantar o escudo de Totec por cima de sua cabeça.
+- Lara pode saltar no escudo de Totec para alcançar aéreas mais elevadas.";
+= "BLOQUEIO COM ESCUDO:
+- Segure ?�� para bloquear balas e ataques inimigos.";
+= "REVIVIR SEU COMPANHEIRO:
+- Pressione ?�� enquanto estiver perto de seu companheiro abatido para revivê-lo instantaneamente.";
+= "MELHORIAS E RECOMPENSAS DO JOGADOR";
+= "RELIQUIAS:
+- As relíquias equipadas dão a seu personagem habilidades muito potentes.
+- Uma só relíquia pode dar v??rias habilidades.
+- Para ver as habilidades de uma relíquia, selecione-a na janela de inventário.
+";
+= "MEDIDOR DE RELÍQUIAS:
+- As habilidades de uma relíquia só poder??o ser usadas quando seu Medidor de Potência de Relíquia estiver cheio.
 - Para isso, recolha gemas e mate seus inimigos sem sofrer dano.
-- Quando o Medidor de Relíquias estiver cheio e sofrer algum dano, ele esvaziar??.]
-[ARTEFATOS:
+- Quando o Medidor de Relíquias estiver cheio e sofrer algum dano, ele esvaziar??.";
+= "ARTEFATOS:
 - Os artefatos afetar??o os atributos de seus personagens de forma positiva e negativa.
-- Dois artefatos podem ser equipados para melhorar o mesmo atributo para conseguir uma for??a ainda maior.]
-[MELHORIAS DE SAÚDE E MUNIÇÃO:
-- As melhorias de sa??de e muni????o aumentam a capacidade m??xima de suas barras de sa??de e muni????o.]
-[SELE?�?�O DE MANCHE]
-[CONFIGURA?�?�O]
-[Ao selecionar um dispositivo de armazenamento novo, os dados salvos nele ser??o sobrescritos. Quer continuar?]
-[CONFIGURA?�?�O]
-[AJUSTE DE TELA]
-[VOL. M?�SICA NO JOGO]
-[VOLUME DE EFEITOS]
-[VOLUME DE DI?�LOGOS]
-[LEGENDAS]
-[SIM]
-[NÃO]
-[VIBRA?�?�O]
-[TUTORIAIS]
-[AN?�IS DO JOGADOR]
-[IDIOMA]
-[PORTUGU?�S]
-[FRANC?�S]
-[ALEM?�O]
-[ITALIANO]
-[ESPANHOL]
-[POLON?�S]
-[RUSSO]
-[CHECO]
-[HOLAND?�S]
-[DIFICULDADE]
-[SELECIONAR DISPOSITIVO DE ARMAZENAGEM]
-[Mudar]
-[BRILHO]
-[CONTRASTE]
-[Ajuste o brilho de forma que a imagem seja o mais brilhante poss?�vel sem que haja cores vis?�veis entre as linhas horizontais vermelhas. Ajuste o contraste s?? se n??o ver bem a tela.]
-[Ajuste o brilho de forma que a imagem seja o mais brilhante poss?�vel sem que haja cores vis?�veis entre as linhas horizontais vermelhas.]
-[Ataques epil??pticos fotosens?�veis
-Uma pequena porcentagem de pessoas podem sofrer um ataque epil??ptico fotosens?�vel quando se exp??em a certas imagens visuais, incluindo os padr??es e as luzes que picam nos jogos. Mesmo as pessoas sem passado deste tipo de ataque ou de epilepsia podem estar propensas a estes "ataques epil??pticos fotosens?�veis" quando fixam a vis??o no monitor.
+- Dois artefatos podem ser equipados para melhorar o mesmo atributo para conseguir uma for??a ainda maior.";
+= "MELHORIAS DE SAÚDE E MUNIÇÃO:
+- As melhorias de sa??de e muni????o aumentam a capacidade m??xima de suas barras de sa??de e muni????o.";
+= "SELE?�?�O DE MANCHE";
+= "CONFIGURAÇÃO";
+= "Ao selecionar um dispositivo de armazenamento novo, os dados salvos nele ser??o sobrescritos. Quer continuar?";
+= "CONFIGURAÇÃO";
+= "AJUSTE DE TELA";
+= "VOL. M?�SICA NO JOGO";
+= "VOLUME DE EFEITOS";
+= "VOLUME DE DI?�LOGOS";
+= "LEGENDAS";
+= "SIM";
+= "NÃO";
+= "VIBRA?�?�O";
+= "TUTORIAIS";
+= "AN?�IS DO JOGADOR";
+= "IDIOMA";
+= "PORTUGU?�S";
+= "FRANC?�S";
+= "ALEM?�O";
+= "ITALIANO";
+= "ESPANHOL";
+= "POLON?�S";
+= "RUSSO";
+= "CHECO";
+= "HOLAND?�S";
+= "DIFICULDADE";
+= "SELECIONAR DISPOSITIVO DE ARMAZENAGEM";
+= "Mudar";
+= "BRILHO";
+= "CONTRASTE";
+= "Ajuste o brilho de forma que a imagem seja o mais brilhante possível sem que haja cores vis?�veis entre as linhas horizontais vermelhas. Ajuste o contraste só se n??o ver bem a tela.";
+= "Ajuste o brilho de forma que a imagem seja o mais brilhante possível sem que haja cores vis?�veis entre as linhas horizontais vermelhas.";
+= "Ataques epiléticos fotosens?�veis
+Uma pequena porcentagem de pessoas podem sofrer um ataque epil??ptico fotosens?�vel quando se exp??em a certas imagens visuais, incluindo os padr??es e as luzes que picam nos jogos. Mesmo as pessoas sem passado deste tipo de ataque ou de epilepsia podem estar propensas a estes "ataques epiléticos fotosens?�veis" quando fixam a visão no monitor.
 
-Estes ataques podem ter v??rios sintomas: tonturas, vis??o alterada, tiques nervosos na face ou nos olhos, tremores nos bra??os ou pernas, desorienta????o, confus??o ou perda moment??nea da aten????o. Tamb??m podem causar perda da consci??ncia ou convuls??es, que podem causar les??es provocadas pela queda ou trauma com objetos pr??ximos.
+Estes ataques podem ter v??rios sintomas: tonturas, visão alterada, tiques nervosos na face ou nos olhos, tremores nos bra??os ou pernas, desorienta????o, confusão ou perda moment??nea da aten????o. Tamb??m podem causar perda da consci??ncia ou convulsóes, que podem causar lesóes provocadas pela queda ou trauma com objetos pr??ximos.
 
-Se sofrer qualquer um destes sintomas, pare de jogar imediatamente e consulte um m??dico. Os pais devem observar seus filhos enquanto jogam e/ou assegurar que n??o tenham experimentado os sintomas mencionados; as crian??as e os adolescentes s??o mais propensos do que os adultos a estes ataques. 
+Se sofrer qualquer um destes sintomas, pare de jogar imediatamente e consulte um m??dico. Os pais devem observar seus filhos enquanto jogam e/ou assegurar que n??o tenham experimentado os sintomas mencionados; as crian??as e os adolescentes são mais propensos do que os adultos a estes ataques. 
 
 O risco de sofrer um ataque epil??ptico fotosens?�vel pode ser reduzido tomando-se as seguintes precau????es:
 
@@ -417,4808 +417,4808 @@ O risco de sofrer um ataque epil??ptico fotosens?�vel pode ser reduzido tomand
 - Utilize uma tela menor
 - Jogue em um ambiente bem iluminado
 - N??o jogue se estiver sonolento ou cansado
-Se você ou algum membro de sua família tiver hist??rico de ataques epil??pticos, consulte seu m??dico antes de jogar.
-]
-[?�? VER PERFIL]
-[?�� PONTUA?�?�O]
-[?�� TEMPO]
-[MARCADORES]
-[Recuperando estat?�sticas]
-[Ainda n??o est?? aparecendo neste marcador]
-[Seus amigos ainda n??o est??o aparecendo neste marcador]
-[MINHA PONTUA?�?�O]
-[AMIGOS]
-[GERAL]
-[PONTUA?�?�O]
-[TEMPO]
-[POSI?�?�O]
-[JOGADOR]
-[Todos os n?�veis combinados]
-[Entradas totais:]
-[MODO COOPERATIVO]
-[PARTIDA R?�PIDA]
-[BUSCAR PARTIDA]
-[CRIAR PARTIDA]
-[Nenhuma partida encontrada.]
-[Entrar em qualquer partida]
-[Buscando partidas...]
-[Entrando na partida...]
-[AJUSTE DE PRIVACIDADE]
-[Criar partida]
-[P?�BLICA]
-[PRIVADA]
-[Anterior]
-[Seguinte]
-[Atualizar]
-[Entrar na partida]
-[P??g.]
-[ESPERANDO POR JOGADOR]
-[O outro jogador abandonou 
+Se você ou algum membro de sua família tiver hist??rico de ataques epiléticos, consulte seu m??dico antes de jogar.
+";
+= "?�? VER PERFIL";
+= "?�� PONTUA?�?�O";
+= "?�� TEMPO";
+= "MARCADORES";
+= "Recuperando estat?�sticas";
+= "Ainda n??o est?? aparecendo neste marcador";
+= "Seus amigos ainda n??o est??o aparecendo neste marcador";
+= "MINHA PONTUA?�?�O";
+= "AMIGOS";
+= "GERAL";
+= "PONTUA?�?�O";
+= "TEMPO";
+= "POSI?�?�O";
+= "JOGADOR";
+= "Todos os n?�veis combinados";
+= "Entradas totais:";
+= "MODO COOPERATIVO";
+= "PARTIDA R?�PIDA";
+= "BUSCAR PARTIDA";
+= "CRIAR PARTIDA";
+= "Nenhuma partida encontrada.";
+= "Entrar em qualquer partida";
+= "Buscando partidas...";
+= "Entrando na partida...";
+= "AJUSTE DE PRIVACIDADE";
+= "Criar partida";
+= "P?�BLICA";
+= "PRIVADA";
+= "Anterior";
+= "Seguinte";
+= "Atualizar";
+= "Entrar na partida";
+= "P??g.";
+= "ESPERANDO POR JOGADOR";
+= "O outro jogador abandonou 
 a partida, esperando um 
-novo jogador entrar.]
-[O jogador abandonou a partida, esperando um novo jogador...]
-[?�� SAIR]
-[ARMA]
-[DEFESA]
-[BOMBA]
-[VELOCIDADE]
-[DISPARO POTENTE]
-[BOMBA POTENTE]
-[VELOCIDADE AUMENTADA]
-[REGENERAR SAÚDE]
-[REGENERAR MUNIÇÃO]
-[DISPARO EXPLOSIVO]
-[POT?�NCIA DE ARMA]
-[CAD?�NCIA DE FOGO]
-[CONSUMO DE MUNIÇÃO]
-[... Esperando o jogador 2...]
-[... Esperando o jogador 1...]
-[OBJETIVOS]
-[MAPA DE N?�VEL]
-[INVENT?�RIO]
-[S?? poder?? obter o poder de uma relíquia quando seu Medidor de Pot??ncia estiver cheio.]
-[ARTEFATOS:]
-[RELIQUIA:]
-[Este jogo tem uma fun????o de Autosalvamento. N??o desligue seu console nem retire o dispositivo de armazenagem quando ver este ?�cone.]
-[Continuar]
-[Tesouros:]
-[TUMBA DAS ARANHAS]
-[TEMPLO DA LUZ]
-[TUMBA DO DISCO SOLAR: ENTRADA]
-[TUMBA DO DISCO SOLAR: SA?�DA]
-[DISCO SOLAR]
-[Os mapas s?? mostram as zonas exteriores.]
-[PORTA]
-[PORTA 2]
-[PORTA 3]
-[PORTA DA CRIPTA]
-[PORTA DA CRIPTA 2]
-[PORTA DA CRIPTA 3]
-[TUMBA DA ILHA]
-[A PISTA]
-[PORTA PRINCIPAL]
-[FORTALEZA DE XOLOTL]
-[CRIPTA ANTIGA]
-[ESQUINA GIRAT?�RIA]
-[PLATAFORMA GIRAT?�RIA 1]
-[PLATAFORMA GIRAT?�RIA 2]
-[PROFUNDEZAS ARDENTES]
-[Nenhum dispositivo de armazenagem foi selecionado. Deve selecionar um dispositivo ou continuar sem salvar. Quer selecionar um dispositivo de armazenagem agora?]
-[Você terminou a vers??o teste de Lara Croft e o Guardi??o da Luz. Se quiser jogar mais, por favor, compra o jogo completo na Steam.]
-[Você obteve uma conquista. Quer comprar o jogo completo para receb??-la?]
-[Desfruta de Lara Croft como nunca antes nesta aventura digital completamente nova.
+novo jogador entrar.";
+= "O jogador abandonou a partida, esperando um novo jogador...";
+= "?�� SAIR";
+= "ARMA";
+= "DEFESA";
+= "BOMBA";
+= "VELOCIDADE";
+= "DISPARO POTENTE";
+= "BOMBA POTENTE";
+= "VELOCIDADE AUMENTADA";
+= "REGENERAR SAÚDE";
+= "REGENERAR MUNIÇÃO";
+= "DISPARO EXPLOSIVO";
+= "POTÊNCIA DE ARMA";
+= "CAD?�NCIA DE FOGO";
+= "CONSUMO DE MUNIÇÃO";
+= "... Esperando o jogador 2...";
+= "... Esperando o jogador 1...";
+= "OBJETIVOS";
+= "MAPA DE N?�VEL";
+= "INVENT?�RIO";
+= "S?? poder?? obter o poder de uma relíquia quando seu Medidor de Potência estiver cheio.";
+= "ARTEFATOS:";
+= "RELIQUIA:";
+= "Este jogo tem uma fun????o de Autosalvamento. N??o desligue seu console nem retire o dispositivo de armazenagem quando ver este ?�cone.";
+= "Continuar";
+= "Tesouros:";
+= "TUMBA DAS ARANHAS";
+= "TEMPLO DA LUZ";
+= "TUMBA DO DISCO SOLAR: ENTRADA";
+= "TUMBA DO DISCO SOLAR: SAÍDA";
+= "DISCO SOLAR";
+= "Os mapas só mostram as zonas exteriores.";
+= "PORTA";
+= "PORTA 2";
+= "PORTA 3";
+= "PORTA DA CRIPTA";
+= "PORTA DA CRIPTA 2";
+= "PORTA DA CRIPTA 3";
+= "TUMBA DA ILHA";
+= "A PISTA";
+= "PORTA PRINCIPAL";
+= "FORTALEZA DE XOLOTL";
+= "CRIPTA ANTIGA";
+= "ESQUINA GIRATÓRIA";
+= "PLATAFORMA GIRATÓRIA 1";
+= "PLATAFORMA GIRATÓRIA 2";
+= "PROFUNDEZAS ARDENTES";
+= "Nenhum dispositivo de armazenagem foi selecionado. Deve selecionar um dispositivo ou continuar sem salvar. Quer selecionar um dispositivo de armazenagem agora?";
+= "Você terminou a versão teste de Lara Croft e o Guardi??o da Luz. Se quiser jogar mais, por favor, compra o jogo completo na Steam.";
+= "Você obteve uma conquista. Quer comprar o jogo completo para receb??-la?";
+= "Desfruta de Lara Croft como nunca antes nesta aventura digital completamente nova.
 
-Jogue em 14 n?�veis cheios de enigmas, a????o e explora????o em modos para um jogador e cooperativos. Obtenha pelo caminho dezenas de artefatos, relíquias e armas que permitir??o desbloquear milhares de combina????es de melhorias. Controle seu personagem com aut??ntico estilo arcade.]
-[?�? Sair]
-[Sair]
-[COME?�AR PARTIDA]
-[Desafio 1: N??o caia nas armadilhas!]
-[Desafio 2: Coisas que explodem!]
-[Desafio 3: Um reencontro perigoso]
-[Personagens de Kane & Lynch ]
-[Personagens de Legacy of Kain ]
-[DISPONÍVEL]
-[COMPRADO]
-[ANTERIORMENTE...]
-[AJUSTES VOLUME]
-[SELE?�?�O DE MODO DE TELA]
-[CONFIGURA?�?�O GR?�FICA]
-[CONTROLE]
-[SENSIBILIDADE DO MOUSE]
-[CONFIGURA?�?�O DE BOT?�ES]
-[RESTAURAR PADR?�O]
-[MANCHE]
-[CONFIGURA?�?�O]
-[EIXOS DO MANCHE]
-[INVERTER EIXO X]
-[INVERTER EIXO Y]
-[CONFIGURA?�?�O DO MANCHE]
-[CONFIGURA?�?�O DE CONTROLES]
-[VER INVERS?�O DO EIXO]
-[OP?�?�ES DE JOGO]
-[Inverter eixo X ao apontar e usar os bin??culos]
-[Inverter eixo Y ao apontar e usar os bin??culos]
-[ANTIALIAS]
-[DETALHE DAS TEXTURAS]
-[FILTRADO DAS TEXTURAS]
-[EFEITOS DE TELA CHEIA]
-[EFEITOS DA ?�GUA]
-[EFEITOS VOLUM?�TRICOS]
-[SOMBRAS]
-[TRIPLE BUFFER]
-[SINCRONIZA?�?�O VERTICAL]
-[BAIXO]
-[M?�DIO]
-[ALTO]
-[LARGURA]
-[ALTURA]
-[FREQU?�NCIA DE ATUALIZA?�?�O]
-[RELA?�?�O DE ASPECTO]
-[APLICAR]
-[?�? LIBERAR BOT?�O]
-[ACIMA]
-[ABAIXO]
-[ESQUERDA]
-[DIREITA]
-[AGACHAR-SE/ROLAR]
-[SALTAR]
-[GANCHO/ESCUDO]
-[INTERAGIR]
-[DISPARAR]
-[BOMBA]
-[USAR ESCUDO]
-[PAUSA]
-[INVENT?�RIO]
-[ARMA 1]
-[ARMA 2]
-[ARMA 3]
-[ARMA 4]
-[ANDAR]
-[CANCELAR]
-[Pressione a tecla desejada para esta a????o.]
-[Os dados est??o corrompidos. Se continuar perder?? toda informa????o pr??via e os dados ser??o sobrescritos.]
-[Erro ao carregar.]
-[Carregando dados salvos...]
-[Erro ao salvar.]
-[Salvando dados...]
-[Desabilitado]
-[Erro ao excluir.]
-[Quer mesmo excluir o arquivo salvo selecionado?]
-[Exclu?�do com sucesso.]
-[Se escolher carregar a partida selecionada, perder?? os progressos conseguidos desde o ??ltimo ponto de controle salvo de Lara Croft e o Guardi??o da Luz. Quer continuar?]
-[N??o h?? espa??o suficiente para salvar uma partida e o autosalvamento n??o funcionar??. Selecione um dispositivo diferente ou libere espa??o. Quer selecionar um dispositivo agora?]
-[Erro ao salvar. N??o h?? espa??o suficiente no dispositivo de armazenagem selecionado. Para que haja autosalvamento escolha outro dispositivo ou libere espa??o no dispositivo selecionado.]
-[N??o h?? espa??o suficiente para salvar mais arquivos. Se quiser salvar mais arquivos sobrescreva um arquivo existente.]
-[Quer mesmo sobrescrever o arquivo salvo selecionado?]
-[N??o pode sobrescrever esta partida salva.]
-[Salvo com sucesso.]
-[Salvando o conte??do. Por favor, n??o desligue o console.]
-[O perfil de jogador mudou. Volte ao menu principal.]
-[N??o iniciou a sess??o com um perfil de jogador. Inicie uma sess??o para acessar os dispositivos de armazenagem.]
-[O dispositivo de armazenagem est?? indisponível. Selecione um dispositivo ou continue sem salvar. Quer selecionar um dispositivo de armazenagem agora?]
-[O dispositivo de mem??ria do perfil est?? indisponível. Por favor, reinsira-o de novo.]
-[Corrompido]
-[Lara Croft e o Guardi??o da Luz - GameVicio]
-[Criar um arquivo de autosalvamento?
-?� preciso ter um arquivo de autosalvamento para salvar o progresso e os ajustes do jogo.]
-[Erro ao carregar o arquivo.
-Tentar de novo?]
-[Tem certeza?
-Nenhum progresso ou ajuste ser?? salvo.]
-[Buscando conte??do baix??vel. Por favor, n??o retire nenhum dispositivo, nem desligue o console.]
-[N??o foi encontrado o conte??do baix??vel exigido. Por favor, insira uma unidade de mem??ria Xbox 360 que contenha conte??do baix??vel para continuar.]
-[Um ou mais dos pacotes de conte??do baix??vel est??o corrompidos e seu conte??do est?? indisponível. Por favor, baixe de novo.]
-[Erro ao criar arquivo de autosalvamento.
-tentar de novo?]
-[O modo de visualiza????o mudou. Quer manter estes ajustes?
-Revertendo em %d segundos.]
-[?� preciso estar conectado ao servi??o Steam para acessar as fun????es de partidas online.]
-[S??o necess??rios dois perfis de jogador.]
-[Você foi desconectado do servi??o Steam e voltar?? para a tela de t?�tulo.]
-[Perdeu-se a conex??o com o servi??o Steam. Por favor, tente reconectar-se de novo para usar as fun????es online.]
-[Este perfil de jogador n??o tem privil??gios multiplayer.]
-[Ocorreu um erro de rede.]
-[Imposs?�vel criar partida.]
-[Imposs?�vel encontrar partidas.]
-[Imposs?�vel entrar na partida.]
-[Esta partida est?? indisponível.]
-[Partida completada.]
-[O host encerrou a partida.]
-[O outro jogador abandonou a sess??o.]
-[Autosalvo: Progresso]
-[Autosalvo: Um jogador]
-[Autosalvo: Cooperativo]
-[Instalando trof??us]
-[Reinstalando trof??us]
-[Atualizando trof??us]
-[Por favor, acesse o Menu de Ajuda e Op????es para configurar o controle do jogador 2.]
-[Consiga 1.410.000 pontos]
-[Traje para selva de Lara Croft]
-[Consiga 1.900.000 pontos]
-[Traje para bicicleta de Lara Croft]
-[Consiga 2.400.000 pontos]
-[Doppelganger]
-[Terrenos do templo]
-[Entre na tumba das aranhas]
-[Explore a ??rea do templo e encontre a entrada da tumba das aranhas]
-[Localize o primeiro disco solar que falta]
-[Encontre o segundo disco solar que falta]
-[Encontre o ??ltimo disco solar que falta]
-[Devolva os discos solares para a tumba das aranhas]
-[Use suas bombas para mover objetos. Pressione ?�� para lan??ar uma bomba e ?�� de novo para deton??-la.]
-[Consiga 100.000 pontos]
-[]
-[POTENCIADOR OBTIDO]
-[Consiga 200.000 pontos]
-[]
-[Consiga 300.000 pontos]
-[Escopeta automática]
-[ARMA OBTIDA]
-[Consiga 10 caveiras vermelhas]
-[Cetro dourado de Huitzilopochtli]
-[RELÍQUIA OBTIDA]
-[Consiga 10 caveiras vermelhas]
-[Abra a tumba das aranhas em 5 minutos ou menos]
-[Coruja dourada]
-[ARTEFATO OBTIDO]
-[Cruze o rio sem tocar na ??gua]
-[Potenciador de sa??de]
-[Encontre e derrote o lagarto dem??nio gigante]
-[Potenciador de muni????o]
-[Destrua todos os caminh??es]
-[Lagarto de argila]
-[Melhoria de muni????o]
-[POTENCIADOR DESCOBERTO]
-[Melhoria de sa??de]
-[ARMA DESCOBERTA]
-[ARTEFATO DESCOBERTO]
-[RELIQUIA DESCOBERTA]
-[Tumba das aranhas]
-[Pegue o atalho da tumba das aranhas]
-[Encontre um caminho at?? o final da tumba]
-[Use os contrapesos pendurados para estender a ponte]
-[Cruze a ponte estendida e escape da tumba das aranhas]
-[H?? superf?�cies que podem ser destru?�das com bombas. Pressione ?�� para lan??ar uma bomba e ?�� de novo para deton??-la.]
-[Consiga 200.000 pontos]
-[]
-[Consiga 250.000 pontos]
-[]
-[Consiga 290.000 pontos]
-[Fuzil de a????o r??pida]
-[Arma]
-[Acerte de primeira]
-[Potenciador de sa??de]
-[Sa??de]
-[12 saltos sobre a armadilha tripla]
-[Potenciador de muni????o]
-[Estenda a ponte em 4:00 ou menos]
-[Duas flechas de Tezcatlipoca]
-[Derrote Leglion, rainha de todas as aranhas]
-[Pena de argila]
-[Consiga 10 caveiras vermelhas]
-[Coruja de pedra]
-[A invoca????o]
-[Derrote a besta invocada]
-[Consiga 30.000 pontos]
-[]
-[Consiga 45.000 pontos]
-[]
-[Consiga 60.000 pontos]
-[AR-06]
-[Consiga 10 caveiras vermelhas]
-[Coruja de pedra]
-[Acabe com o T-Rex em 2:00 ou menos]
-[Pena dourada]
-[Destrua todas as colunas]
-[Lagarto de argila]
-[Destrua todas as colunas]
-[P??ntano T??xico]
-[Persiga Xolotl at?? a Tumba da Ilha]
-[Explore o P??ntano T??xico]
-[Busque e abra a primeira das tr??s grandes portas]
-[Busque e abra a segunda porta]
-[Busque e abra a ??ltima porta]
-[Consiga acesso  para a tumba do lago]
-[O lan??a-granadas pode ser usado para destruir objetos distantes. Equipe o lan??a-granadas e dispare nos objetos destrut?�veis.]
-[Consiga 220.000 pontos]
-[]
-[Consiga 320.000 pontos]
-[]
-[Consiga 360.000 pontos]
-[Canh??es de missão]
-[Consiga 10 caveiras vermelhas]
-[Flecha dourada de Tezcatlipoca]
-[Saia do labirinto sem receber dano por veneno]
-[Lagarto de pedra]
-[Arrume a bola rolante]
-[Potenciador de sa??de]
-[Coloque a bola em seu po??o em 30 segundos ou menos]
-[Potenciador de muni????o]
-[Muni????o]
-[Alcance a sa?�da em 9:00 ou menos]
-[Flecha dourada]
-[Passagem inundada]
-[Escape da passagem inundada]
-[Persiga Xolotl atrav??s de suas armadilhas mort?�feras]
-[Consiga 120.000 pontos]
-[]
-[Consiga 160.000 pontos]
-[]
-[Consiga 180.000 pontos]
-[Pistolas automáticas]
-[Consiga dez caveiras vermelhas]
-[Tambor de guerra]
-[Derrube o muro com a bola gigante em menos de 8 minutos]
-[Olho dourado de Cipactli]
-[Destrua todas as armadilhas de flechas]
-[Potenciador de sa??de]
-[Destrua as 3 urnas ocultas]
-[Potenciador de muni????o]
-[Templo da luz]
-[Persiga Xolotl e devolva o Espelho de Fuma??a]
-[Pressione ?�� para lan??ar uma bomba e volte a pressionar ?�� para deton??-la.]
-[Use ?�� para sacar sua arma e segure ?�� para disparar.
-Para mover-se enquanto aponta e dispara use ?��.]
-[As bombas podem ser usadas para destruir objetos]
-[Totec pode usar seu escudo para bloquear balas.
-Segure ?�� para levantar o escudo, depois aponte e mova-se.]
-[Totec pode segurar ?�� para levantar seu escudo por cima da cabe??a. Quando Lara estiver em cima, poder?? us??-lo para saltar para ??reas mais elevadas.]
-[Lara pode lan??ar a corda de seu gancho para Totec pressionando e segurando ?��. Quando estiver dependurado, mova-se para cima para escalar a parede.]
-[Se permanecer pr??ximo a um antigo santu??rio de sa??de, ela se regenerar??.]
-[Totec pode usar a corda do gancho de Lara para andar por ela. Lara pode enganchar o mesmo ao anel dourado se pressionar e segurar ?��. Assim Totec poder?? saltar na corda e caminhar at?? o outro lado.]
-[Pressione ?�� para agarrar a al??a dourada e mova-se para tr??s para desenganch??-la da parede.]
-[Lara pode saltar em cima das lan??as cravadas nas paredes para alcan??ar locais elevados.
-Pressione ?�� para trocar sua lan??a.]
-[Lara pode elevar Totec com sua corda com gancho. Com Lara, aponte para Totec e pressione ?�� para lan??ar o gancho. Assim Totec pode saltar na parede e escalar.]
-[Se estiver perto de uma bola rolante, segure ?�� para agarr??-la.
-Mova-se para empurrar as bolas nos inimigos ou ativar placas de press??o.]
-[Enganche o anel dourado com ?��. Salte na parede, mova-se para a esquerda e direita para balan??ar e pressione ?�� para saltar ao outro lado.]
-[Totec pode caminhar pela corda de Lara. Lara pode apontar o anel do gancho com ?�� e lan????-lo com ?��.]
-[Use ?�� para apontar o gancho para Totec e ?�� para lan????-lo. Lara pode usar Totec como ponto de apoio para alcan????-lo do outro lado.]
-[Dispare ou atire bombas nestes interruptores para fechar e abrir portas ou mudar objetos.]
-[As salas marcadas com luzes vermelhas s??o tumbas com desafios.
-Estas tumbas opcionais guardam tesouros exclusivos e desafios dif?�ceis.]
-[Segure ?�� para enganchar-se nos an??is dourados.
-Mova-se para cima para escalar as paredes.]
-[Lara pode usar suas lan??as para cruzar espa??os grandes.]
-[Enganche o anel dourado com ?��. Salte na parede, mova-se para esquerda e direita para balan??ar e pressione ?�� para saltar ao outro lado.]
-[Pressione ?�� para esquivar dos ataques inimigos.]
-[Equipe artefatos na janela de invent??rio para aumentar os atributos de seu personagem.]
-[Equipe relíquias na janela de invent??rio para desbloquear novas habilidades no modo Guerreiro.]
-[Use ?�� para APONTAR.]
-[Lara pode saltar em cima das lan??as cravadas nas paredes para alcan??ar locais elevados.
-Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.]
-[Consiga 100.000 pontos]
-[]
-[Consiga 130.000 pontos]
-[]
-[Consiga 160.000 pontos]
-[Magnums]
-[Flecha de pedra]
-[Alcance a sa?�da em 6:00 ou menos]
-[Coroa de Ehecatl]
-[Salte entre 7 recipientes de aranha sem tocar o ch??o]
-[Potenciador de sa??de]
-[Desative a armadilha de fogo de Xolotl em menos de 30 segundos]
-[Coruja de argila]
-[Destrua todas as urnas]
-[Potenciador de muni????o]
-[As faces da morte]
-[Encontre onde Xolotl te espera]
-[Explora mais]
-[Consiga 60.000 pontos]
-[]
-[Consiga 80.000 pontos]
-[]
-[Consiga 110.000 pontos]
-[Lan??a-chamas de grande potência]
-[Consiga dez caveiras vermelhas]
-[Tambor branco]
-[Escape em 2 minutos ou menos]
-[Tambor de vento]
-[Acabe com todos os inimigos das colunas]
-[Flecha dourada]
-[Porta esquecida]
-[Encontre uma passagem atrav??s desta antiga tumba]
-[Abra a Porta esquecida]
-[Escape do templo]
-[As bombas ?� dist??ncia podem ser usadas para mover bolas.]
-[Consiga 140.000 pontos]
-[]
-[Consiga 170.000 pontos]
-[]
-[Consiga 230.000 pontos]
-[Escopeta de duplo cano]
-[Consiga 10 caveiras vermelhas]
-[Flecha de argila]
-[Alcance a sa?�da em 10:00 ou menos]
-[Cetro dourado de Cihuacoatl]
-[Leva todas as bolas para a sala principal]
-[Potenciador de muni????o]
-[POTENCIADOR OBTIDO]
-[Ande pela sala de armadilhas sem morrer]
-[Lagarto dourado]
-[Coloque a bola no pedestal usando uma bomba]
-[Potenciador de sa??de]
-[Ponte retorcida]
-[Chegue at?? a tumba no fim do c??nion]
-[Abra passo atrav??s do c??nion]
-[Cruze a ponte e dirija-se para a tumba no fim do c??nion]
-[Consiga 190.000 pontos]
-[]
-[Consiga 210.000 pontos]
-[]
-[Consiga 250.000 pontos ]
-[Subfuzil]
-[Consiga dez caveiras vermelhas]
-[Tambor de serpente]
-[Cruze a Ponte retorcida em menos de 6 minutos]
-[Máscara de Itzli]
-[Lance bombas nas bolas de fogo]
-[Potenciador de sa??de]
-[Destrua o escudo de um Dem??nio]
-[Potenciador de muni????o]
-[Ventre da besta]
-[Use o lan??a-foguetes para destruir a besta de lava]
-[Consiga 30.000 pontos]
-[]
-[Consiga 50.000 pontos]
-[]
-[Consiga 70.000 pontos]
-[Lan??a-granadas pesado]
-[Salte sobre as 11 teias de aranha]
-[Tambor branco]
-[Acabe com o T-Rex em 5 minutos ou menos]
-[Serpente de argila]
-[Consiga 10 caveiras vermelhas]
-[Tambor de serpente]
-[Fortaleza de Xolotl]
-[Derrote Xolotl e reclame o Espelho de Fuma??a]
-[Consiga 80.000 pontos]
-[]
-[Consiga 120.000 pontos]
-[]
-[Consiga 140.000 pontos]
-[Lan??a da luz]
-[Derrote Xolotl em 10 minutos ou menos]
-[Lan??a da escurid??o]
-[O despertar do espelho]
-[Abra a porta para a fortaleza de Xolotl]
-[Persiga Xolotl at?? sua fortaleza do p??ntano]
-[Derrote os outros dois guardi??es e pegue suas chaves]
-[Derrote o ??ltimo guardi??o e pegue sua chave]
-[Volte para a porta com as tr??s chaves]
-[Consiga 150.000 pontos]
-[]
-[Consiga 190.000 pontos]
-[]
-[Consiga 240.000 pontos]
-[Escopeta dourada]
-[Consiga 10 caveiras vermelhas]
-[Cora????o de jade]
-[Chegue na fortaleza de Xolotl em 6 minutos ou menos]
-[Máscara de Xolotl]
-[Acerta de primeira]
-[Serpente de pedra]
-[Arrombe 2 escudos com 1 caminh??o]
-[Potenciador de sa??de]
-[Coloque a primeira bola girat??ria em seu po??o de fogo em 15 segundos]
-[Potenciador de muni????o]
-[Potenciador de muni????o]
-[Potenciador de sa??de]
-[Profundezas ardentes]
-[Persiga Xolotl pelas profundezas ardentes]
-[Entre no ventre da besta]
-[Consiga 90.000 pontos]
-[]
-[Consiga 110.000 pontos]
-[]
-[Consiga 130.000 pontos]
-[Lan??a de fogo]
-[Consiga 10 caveiras vermelhas]
-[Sud??rio dourado de Cihuacoatl]
-[Alcance a sa?�da em 5:00 ou menos]
-[Tambor obscuro]
-[Arrume a bola rolante]
-[Tambor de vento]
-[Sacrifique 3 esqueletos para a crista do escorpi??o]
-[Potenciador de sa??de]
-[Esqueletos sacrificados]
-[Salte sobre as 6 plataformas de teias de aranha]
-[Potenciador de muni????o]
-[Passagem da fortaleza]
-[Encontre uma passagem atrav??s desta antiga tumba]
-[Encontre seis bolas rolantes para apagar as chamas]
-[Escape do templo]
-[Consiga 60.000 pontos]
-[]
-[Consiga 90.000 pontos]
-[]
-[Consiga 120.000 pontos]
-[Canhão de raio]
-[Consiga 10 caveiras vermelhas]
-[Punho de Tezcatlipoca]
-[Alcance a sa?�da em menos de 15 minutos]
-[Cora????o de jade]
-[Coloque uma bola no alto do pedestal de caveiras]
-[Potenciador de sa??de]
-[Passe pelas 3 teias de aranha]
-[Potenciador de muni????o]
-[PULAR V?�DEO?]
-[?�� SIM]
-[?�� NÃO]
-[Eleva????es explosivas]
-[Escape em 3 minutos ou menos ]
-[]
-[Escape em 2 minutos ou menos ]
-[ ]
-[Escape em 1 minuto e meio ou menos]
-[ ]
-[Defesa do templo]
-[Consiga 200.000 pontos]
-[]
-[Consiga 350.000 pontos]
-[]
-[Consiga 500.000 pontos]
-[]
-[O covil de Leglion]
-[Consiga 50.000 pontos]
-[]
-[Consiga 75.000 pontos]
-[]
-[Consiga 100.000 pontos]
-[]
-[Expectativas esmagadoras]
-[Cruzamentos duplos]
-[Escape em 3 minutos e meio ou menos]
-[]
-[Escape em 3 minutos ou menos]
-[ ]
-[Escape em 2 minutos e meio ou menos]
-[]
-[Bombeiros]
-[Consiga 50.000 pontos]
-[]
-[Consiga 75.000 pontos]
-[]
-[Consiga 100.000 pontos]
-[]
-[Vale enfermo]
-[Consiga 300.000 pontos]
-[]
-[Consiga 450.000 pontos]
-[]
-[Consiga 550.000 pontos]
-[]
-[Com unhas e dentes]
-[Sopa de enigmas]
-[Escape em ? minutos ou menos]
-[]
-[Escape em ? minutos ou menos]
-[ ]
-[Escape em ? minutos ou menos]
-[Tambor de vento]
-[Rio da loucura]
-[Consiga 50.000 pontos]
-[]
-[Consiga 75.000 pontos]
-[]
-[Consiga 100.000 pontos]
-[]
-[Minigolfe maia]
-[Lava feroz]
-[AIM]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[Erro de Lara Croft e o Guardi??o da Luz.]
-[Informa????o ampliada]
-[Ocorreu um erro fatal no jogo Lara Croft e o Guardi??o da Luz. Consulte o arquivo ReadMe (Leia-me) para obter informa????es que poder??o ajud??-lo a solucionar este problema, ou chame o servi??o t??cnico de Eidos.]
-[Mostrar informa????o ampliada]
-[Ocultar informa????o ampliada]
-[Você n??o tem as permiss??es necess??rias para jogar Lara Croft e o Guardi??o da Luz.]
-[Lara Croft e o Guardi??o da Luz j?? est?? em execu????o nesse computador, mas n??o p??de abrir. ?� prov??vel que outro usu??rio esteja executando o jogo.]
-[Lara Croft e o Guardi??o da Luz n??o pode ser executado em uma sess??o remota!]
-[Este jogo exige uma placa de v?�deo compat?�vel com DirectX9.0c e pixel shader 3.0, que n??o s??o suportados por sua placa atual.]
-[Lara Croft e o Guardi??o da Luz s?? pode ser executado em um PC compat?�vel com o conjunto de instru????es SSE. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
+Jogue em 14 n?�veis cheios de enigmas, a????o e explora????o em modos para um jogador e cooperativos. Obtenha pelo caminho dezenas de artefatos, relíquias e armas que permitiráo desbloquear milhares de combina????es de melhorias. Controle seu personagem com aut??ntico estilo arcade.";
+= "?�? Sair";
+= "Sair";
+= "COME?�AR PARTIDA";
+= "Desafio 1: N??o caia nas armadilhas!";
+= "Desafio 2: Coisas que explodem!";
+= "Desafio 3: Um reencontro perigoso";
+= "Personagens de Kane & Lynch ";
+= "Personagens de Legacy of Kain ";
+= "DISPONÍVEL";
+= "COMPRADO";
+= "ANTERIORMENTE...";
+= "AJUSTES VOLUME";
+= "SELE?�?�O DE MODO DE TELA";
+= "CONFIGURAÇÃO GR?�FICA";
+= "CONTROLE";
+= "SENSIBILIDADE DO MOUSE";
+= "CONFIGURAÇÃO DE BOT?�ES";
+= "RESTAURAR PADR?�O";
+= "MANCHE";
+= "CONFIGURAÇÃO";
+= "EIXOS DO MANCHE";
+= "INVERTER EIXO X";
+= "INVERTER EIXO Y";
+= "CONFIGURAÇÃO DO MANCHE";
+= "CONFIGURAÇÃO DE CONTROLES";
+= "VER INVERS?�O DO EIXO";
+= "OP?�?�ES DE JOGO";
+= "Inverter eixo X ao apontar e usar os bin??culos";
+= "Inverter eixo Y ao apontar e usar os bin??culos";
+= "ANTIALIAS";
+= "DETALHE DAS TEXTURAS";
+= "FILTRADO DAS TEXTURAS";
+= "EFEITOS DE TELA CHEIA";
+= "EFEITOS DA ?�GUA";
+= "EFEITOS VOLUM?�TRICOS";
+= "SOMBRAS";
+= "TRIPLE BUFFER";
+= "SINCRONIZA?�?�O VERTICAL";
+= "BAIXO";
+= "M?�DIO";
+= "ALTO";
+= "LARGURA";
+= "ALTURA";
+= "FREQU?�NCIA DE ATUALIZA?�?�O";
+= "RELA?�?�O DE ASPECTO";
+= "APLICAR";
+= "?�? LIBERAR BOT?�O";
+= "ACIMA";
+= "ABAIXO";
+= "ESQUERDA";
+= "DIREITA";
+= "AGACHAR-SE/ROLAR";
+= "SALTAR";
+= "GANCHO/ESCUDO";
+= "INTERAGIR";
+= "DISPARAR";
+= "BOMBA";
+= "USAR ESCUDO";
+= "PAUSA";
+= "INVENT?�RIO";
+= "ARMA 1";
+= "ARMA 2";
+= "ARMA 3";
+= "ARMA 4";
+= "ANDAR";
+= "CANCELAR";
+= "Pressione a tecla desejada para esta a????o.";
+= "Os dados est??o corrompidos. Se continuar perder?? toda informa????o pr??via e os dados ser??o sobrescritos.";
+= "Erro ao carregar.";
+= "Carregando dados salvos...";
+= "Erro ao salvar.";
+= "Salvando dados...";
+= "Desabilitado";
+= "Erro ao excluir.";
+= "Quer mesmo excluir o arquivo salvo selecionado?";
+= "Exclu?�do com sucesso.";
+= "Se escolher carregar a partida selecionada, perder?? os progressos conseguidos desde o ??ltimo ponto de controle salvo de Lara Croft e o Guardi??o da Luz. Quer continuar?";
+= "N??o h?? espa??o suficiente para salvar uma partida e o autosalvamento n??o funcionar??. Selecione um dispositivo diferente ou libere espa??o. Quer selecionar um dispositivo agora?";
+= "Erro ao salvar. N??o h?? espa??o suficiente no dispositivo de armazenagem selecionado. Para que haja autosalvamento escolha outro dispositivo ou libere espa??o no dispositivo selecionado.";
+= "N??o h?? espa??o suficiente para salvar mais arquivos. Se quiser salvar mais arquivos sobrescreva um arquivo existente.";
+= "Quer mesmo sobrescrever o arquivo salvo selecionado?";
+= "N??o pode sobrescrever esta partida salva.";
+= "Salvo com sucesso.";
+= "Salvando o conte??do. Por favor, n??o desligue o console.";
+= "O perfil de jogador mudou. Volte ao menu principal.";
+= "N??o iniciou a sessão com um perfil de jogador. Inicie uma sessão para acessar os dispositivos de armazenagem.";
+= "O dispositivo de armazenagem est?? indisponível. Selecione um dispositivo ou continue sem salvar. Quer selecionar um dispositivo de armazenagem agora?";
+= "O dispositivo de mem??ria do perfil est?? indisponível. Por favor, reinsira-o de novo.";
+= "Corrompido";
+= "Lara Croft e o Guardi??o da Luz - GameVicio";
+= "Criar um arquivo de autosalvamento?
+?� preciso ter um arquivo de autosalvamento para salvar o progresso e os ajustes do jogo.";
+= "Erro ao carregar o arquivo.
+Tentar de novo?";
+= "Tem certeza?
+Nenhum progresso ou ajuste ser?? salvo.";
+= "Buscando conte??do baix??vel. Por favor, n??o retire nenhum dispositivo, nem desligue o console.";
+= "N??o foi encontrado o conte??do baix??vel exigido. Por favor, insira uma unidade de mem??ria Xbox 360 que contenha conte??do baix??vel para continuar.";
+= "Um ou mais dos pacotes de conte??do baix??vel est??o corrompidos e seu conte??do est?? indisponível. Por favor, baixe de novo.";
+= "Erro ao criar arquivo de autosalvamento.
+tentar de novo?";
+= "O modo de visualiza????o mudou. Quer manter estes ajustes?
+Revertendo em %d segundos.";
+= "?� preciso estar conectado ao servi??o Steam para acessar as fun????es de partidas online.";
+= "S??o necessórios dois perfis de jogador.";
+= "Você foi desconectado do servi??o Steam e voltar?? para a tela de t?�tulo.";
+= "Perdeu-se a conex??o com o servi??o Steam. Por favor, tente reconectar-se de novo para usar as fun????es online.";
+= "Este perfil de jogador n??o tem privil??gios multiplayer.";
+= "Ocorreu um erro de rede.";
+= "Impossível criar partida.";
+= "Impossível encontrar partidas.";
+= "Impossível entrar na partida.";
+= "Esta partida est?? indisponível.";
+= "Partida completada.";
+= "O host encerrou a partida.";
+= "O outro jogador abandonou a sessão.";
+= "Autosalvo: Progresso";
+= "Autosalvo: Um jogador";
+= "Autosalvo: Cooperativo";
+= "Instalando trof??us";
+= "Reinstalando trof??us";
+= "Atualizando trof??us";
+= "Por favor, acesse o Menu de Ajuda e Op????es para configurar o controle do jogador 2.";
+= "Consiga 1.410.000 pontos";
+= "Traje para selva de Lara Croft";
+= "Consiga 1.900.000 pontos";
+= "Traje para bicicleta de Lara Croft";
+= "Consiga 2.400.000 pontos";
+= "Doppelganger";
+= "Terrenos do templo";
+= "Entre na tumba das aranhas";
+= "Explore a ??rea do templo e encontre a entrada da tumba das aranhas";
+= "Localize o primeiro disco solar que falta";
+= "Encontre o segundo disco solar que falta";
+= "Encontre o ??ltimo disco solar que falta";
+= "Devolva os discos solares para a tumba das aranhas";
+= "Use suas bombas para mover objetos. Pressione ?�� para lançar uma bomba e ?�� de novo para detoná-la.";
+= "Consiga 100.000 pontos";
+= "";
+= "POTENCIADOR OBTIDO";
+= "Consiga 200.000 pontos";
+= "";
+= "Consiga 300.000 pontos";
+= "Escopeta automática";
+= "ARMA OBTIDA";
+= "Consiga 10 caveiras vermelhas";
+= "Cetro dourado de Huitzilopochtli";
+= "RELÍQUIA OBTIDA";
+= "Consiga 10 caveiras vermelhas";
+= "Abra a tumba das aranhas em 5 minutos ou menos";
+= "Coruja dourada";
+= "ARTEFATO OBTIDO";
+= "Cruze o rio sem tocar na ??gua";
+= "Potenciador de sa??de";
+= "Encontre e derrote o lagarto dem??nio gigante";
+= "Potenciador de muni????o";
+= "Destrua todos os caminh??es";
+= "Lagarto de argila";
+= "Melhoria de muni????o";
+= "POTENCIADOR DESCOBERTO";
+= "Melhoria de sa??de";
+= "ARMA DESCOBERTA";
+= "ARTEFATO DESCOBERTO";
+= "RELIQUIA DESCOBERTA";
+= "Tumba das aranhas";
+= "Pegue o atalho da tumba das aranhas";
+= "Encontre um caminho at?? o final da tumba";
+= "Use os contrapesos pendurados para estender a ponte";
+= "Cruze a ponte estendida e escape da tumba das aranhas";
+= "H?? superfícies que podem ser destruídas com bombas. Pressione ?�� para lançar uma bomba e ?�� de novo para detoná-la.";
+= "Consiga 200.000 pontos";
+= "";
+= "Consiga 250.000 pontos";
+= "";
+= "Consiga 290.000 pontos";
+= "Fuzil de a????o r??pida";
+= "Arma";
+= "Acerte de primeira";
+= "Potenciador de sa??de";
+= "Sa??de";
+= "12 saltos sobre a armadilha tripla";
+= "Potenciador de muni????o";
+= "Estenda a ponte em 4:00 ou menos";
+= "Duas flechas de Tezcatlipoca";
+= "Derrote Leglion, rainha de todas as aranhas";
+= "Pena de argila";
+= "Consiga 10 caveiras vermelhas";
+= "Coruja de pedra";
+= "A invoca????o";
+= "Derrote a besta invocada";
+= "Consiga 30.000 pontos";
+= "";
+= "Consiga 45.000 pontos";
+= "";
+= "Consiga 60.000 pontos";
+= "AR-06";
+= "Consiga 10 caveiras vermelhas";
+= "Coruja de pedra";
+= "Acabe com o T-Rex em 2:00 ou menos";
+= "Pena dourada";
+= "Destrua todas as colunas";
+= "Lagarto de argila";
+= "Destrua todas as colunas";
+= "P??ntano T??xico";
+= "Persiga Xolotl at?? a Tumba da Ilha";
+= "Explore o P??ntano T??xico";
+= "Busque e abra a primeira das tr??s grandes portas";
+= "Busque e abra a segunda porta";
+= "Busque e abra a ??ltima porta";
+= "Consiga acesso  para a tumba do lago";
+= "O lança-granadas pode ser usado para destruir objetos distantes. Equipe o lança-granadas e dispare nos objetos destrut?�veis.";
+= "Consiga 220.000 pontos";
+= "";
+= "Consiga 320.000 pontos";
+= "";
+= "Consiga 360.000 pontos";
+= "Canh??es de missão";
+= "Consiga 10 caveiras vermelhas";
+= "Flecha dourada de Tezcatlipoca";
+= "Saia do labirinto sem receber dano por veneno";
+= "Lagarto de pedra";
+= "Arrume a bola rolante";
+= "Potenciador de sa??de";
+= "Coloque a bola em seu po??o em 30 segundos ou menos";
+= "Potenciador de muni????o";
+= "Munição";
+= "Alcance a saída em 9:00 ou menos";
+= "Flecha dourada";
+= "Passagem inundada";
+= "Escape da passagem inundada";
+= "Persiga Xolotl atrav??s de suas armadilhas mort?�feras";
+= "Consiga 120.000 pontos";
+= "";
+= "Consiga 160.000 pontos";
+= "";
+= "Consiga 180.000 pontos";
+= "Pistolas automáticas";
+= "Consiga dez caveiras vermelhas";
+= "Tambor de guerra";
+= "Derrube o muro com a bola gigante em menos de 8 minutos";
+= "Olho dourado de Cipactli";
+= "Destrua todas as armadilhas de flechas";
+= "Potenciador de sa??de";
+= "Destrua as 3 urnas ocultas";
+= "Potenciador de muni????o";
+= "Templo da luz";
+= "Persiga Xolotl e devolva o Espelho de Fuma??a";
+= "Pressione ?�� para lançar uma bomba e volte a pressionar ?�� para detoná-la.";
+= "Use ?�� para sacar sua arma e segure ?�� para disparar.
+Para mover-se enquanto aponta e dispara use ?��.";
+= "As bombas podem ser usadas para destruir objetos";
+= "Totec pode usar seu escudo para bloquear balas.
+Segure ?�� para levantar o escudo, depois aponte e mova-se.";
+= "Totec pode segurar ?�� para levantar seu escudo por cima da cabeça. Quando Lara estiver em cima, poder?? usó-lo para saltar para aéreas mais elevadas.";
+= "Lara pode lançar a corda de seu gancho para Totec pressionando e segurando ?��. Quando estiver dependurado, mova-se para cima para escalar a parede.";
+= "Se permanecer pr??ximo a um antigo santu??rio de sa??de, ela se regenerar??.";
+= "Totec pode usar a corda do gancho de Lara para andar por ela. Lara pode enganchar o mesmo ao anel dourado se pressionar e segurar ?��. Assim Totec poder?? saltar na corda e caminhar at?? o outro lado.";
+= "Pressione ?�� para agarrar a al??a dourada e mova-se para tr??s para desenganch??-la da parede.";
+= "Lara pode saltar em cima das lanças cravadas nas paredes para alcançar locais elevados.
+Pressione ?�� para trocar sua lança.";
+= "Lara pode elevar Totec com sua corda com gancho. Com Lara, aponte para Totec e pressione ?�� para lançar o gancho. Assim Totec pode saltar na parede e escalar.";
+= "Se estiver perto de uma bola rolante, segure ?�� para agarr??-la.
+Mova-se para empurrar as bolas nos inimigos ou ativar placas de pressão.";
+= "Enganche o anel dourado com ?��. Salte na parede, mova-se para a esquerda e direita para balnçar e pressione ?�� para saltar ao outro lado.";
+= "Totec pode caminhar pela corda de Lara. Lara pode apontar o anel do gancho com ?�� e lan????-lo com ?��.";
+= "Use ?�� para apontar o gancho para Totec e ?�� para lan????-lo. Lara pode usar Totec como ponto de apoio para alcan????-lo do outro lado.";
+= "Dispare ou atire bombas nestes interruptores para fechar e abrir portas ou mudar objetos.";
+= "As salas marcadas com luzes vermelhas são tumbas com desafios.
+Estas tumbas opcionais guardam tesouros exclusivos e desafios difíceis.";
+= "Segure ?�� para enganchar-se nos an??is dourados.
+Mova-se para cima para escalar as paredes.";
+= "Lara pode usar suas lanças para cruzar espa??os grandes.";
+= "Enganche o anel dourado com ?��. Salte na parede, mova-se para esquerda e direita para balnçar e pressione ?�� para saltar ao outro lado.";
+= "Pressione ?�� para esquivar dos ataques inimigos.";
+= "Equipe artefatos na janela de inventário para aumentar os atributos de seu personagem.";
+= "Equipe relíquias na janela de inventário para desbloquear novas habilidades no modo Guerreiro.";
+= "Use ?�� para APONTAR.";
+= "Lara pode saltar em cima das lanças cravadas nas paredes para alcançar locais elevados.
+Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.";
+= "Consiga 100.000 pontos";
+= "";
+= "Consiga 130.000 pontos";
+= "";
+= "Consiga 160.000 pontos";
+= "Magnums";
+= "Flecha de pedra";
+= "Alcance a sa?�da em 6:00 ou menos";
+= "Coroa de Ehecatl";
+= "Salte entre 7 recipientes de aranha sem tocar o ch??o";
+= "Potenciador de sa??de";
+= "Desative a armadilha de fogo de Xolotl em menos de 30 segundos";
+= "Coruja de argila";
+= "Destrua todas as urnas";
+= "Potenciador de muni????o";
+= "As faces da morte";
+= "Encontre onde Xolotl te espera";
+= "Explora mais";
+= "Consiga 60.000 pontos";
+= "";
+= "Consiga 80.000 pontos";
+= "";
+= "Consiga 110.000 pontos";
+= "Lan??a-chamas de grande potência";
+= "Consiga dez caveiras vermelhas";
+= "Tambor branco";
+= "Escape em 2 minutos ou menos";
+= "Tambor de vento";
+= "Acabe com todos os inimigos das colunas";
+= "Flecha dourada";
+= "Porta esquecida";
+= "Encontre uma passagem atrav??s desta antiga tumba";
+= "Abra a Porta esquecida";
+= "Escape do templo";
+= "As bombas ?� dist??ncia podem ser usadas para mover bolas.";
+= "Consiga 140.000 pontos";
+= "";
+= "Consiga 170.000 pontos";
+= "";
+= "Consiga 230.000 pontos";
+= "Escopeta de duplo cano";
+= "Consiga 10 caveiras vermelhas";
+= "Flecha de argila";
+= "Alcance a sa?�da em 10:00 ou menos";
+= "Cetro dourado de Cihuacoatl";
+= "Leva todas as bolas para a sala principal";
+= "Potenciador de muni????o";
+= "POTENCIADOR OBTIDO";
+= "Ande pela sala de armadilhas sem morrer";
+= "Lagarto dourado";
+= "Coloque a bola no pedestal usando uma bomba";
+= "Potenciador de sa??de";
+= "Ponte retorcida";
+= "Chegue at?? a tumba no fim do c??nion";
+= "Abra passo atrav??s do c??nion";
+= "Cruze a ponte e dirija-se para a tumba no fim do c??nion";
+= "Consiga 190.000 pontos";
+= "";
+= "Consiga 210.000 pontos";
+= "";
+= "Consiga 250.000 pontos ";
+= "Subfuzil";
+= "Consiga dez caveiras vermelhas";
+= "Tambor de serpente";
+= "Cruze a Ponte retorcida em menos de 6 minutos";
+= "Máscara de Itzli";
+= "Lance bombas nas bolas de fogo";
+= "Potenciador de sa??de";
+= "Destrua o escudo de um Dem??nio";
+= "Potenciador de muni????o";
+= "Ventre da besta";
+= "Use o lança-foguetes para destruir a besta de lava";
+= "Consiga 30.000 pontos";
+= "";
+= "Consiga 50.000 pontos";
+= "";
+= "Consiga 70.000 pontos";
+= "Lan??a-granadas pesado";
+= "Salte sobre as 11 teias de aranha";
+= "Tambor branco";
+= "Acabe com o T-Rex em 5 minutos ou menos";
+= "Serpente de argila";
+= "Consiga 10 caveiras vermelhas";
+= "Tambor de serpente";
+= "Fortaleza de Xolotl";
+= "Derrote Xolotl e reclame o Espelho de Fuma??a";
+= "Consiga 80.000 pontos";
+= "";
+= "Consiga 120.000 pontos";
+= "";
+= "Consiga 140.000 pontos";
+= "Lan??a da luz";
+= "Derrote Xolotl em 10 minutos ou menos";
+= "Lan??a da escuridão";
+= "O despertar do espelho";
+= "Abra a porta para a fortaleza de Xolotl";
+= "Persiga Xolotl at?? sua fortaleza do p??ntano";
+= "Derrote os outros dois guardi??es e pegue suas chaves";
+= "Derrote o ??ltimo guardi??o e pegue sua chave";
+= "Volte para a porta com as tr??s chaves";
+= "Consiga 150.000 pontos";
+= "";
+= "Consiga 190.000 pontos";
+= "";
+= "Consiga 240.000 pontos";
+= "Escopeta dourada";
+= "Consiga 10 caveiras vermelhas";
+= "Cora????o de jade";
+= "Chegue na fortaleza de Xolotl em 6 minutos ou menos";
+= "Máscara de Xolotl";
+= "Acerta de primeira";
+= "Serpente de pedra";
+= "Arrombe 2 escudos com 1 caminh??o";
+= "Potenciador de sa??de";
+= "Coloque a primeira bola girat??ria em seu po??o de fogo em 15 segundos";
+= "Potenciador de muni????o";
+= "Potenciador de muni????o";
+= "Potenciador de sa??de";
+= "Profundezas ardentes";
+= "Persiga Xolotl pelas profundezas ardentes";
+= "Entre no ventre da besta";
+= "Consiga 90.000 pontos";
+= "";
+= "Consiga 110.000 pontos";
+= "";
+= "Consiga 130.000 pontos";
+= "Lan??a de fogo";
+= "Consiga 10 caveiras vermelhas";
+= "Sud??rio dourado de Cihuacoatl";
+= "Alcance a sa?�da em 5:00 ou menos";
+= "Tambor obscuro";
+= "Arrume a bola rolante";
+= "Tambor de vento";
+= "Sacrifique 3 esqueletos para a crista do escorpi??o";
+= "Potenciador de sa??de";
+= "Esqueletos sacrificados";
+= "Salte sobre as 6 plataformas de teias de aranha";
+= "Potenciador de muni????o";
+= "Passagem da fortaleza";
+= "Encontre uma passagem atrav??s desta antiga tumba";
+= "Encontre seis bolas rolantes para apagar as chamas";
+= "Escape do templo";
+= "Consiga 60.000 pontos";
+= "";
+= "Consiga 90.000 pontos";
+= "";
+= "Consiga 120.000 pontos";
+= "Canhão de raio";
+= "Consiga 10 caveiras vermelhas";
+= "Punho de Tezcatlipoca";
+= "Alcance a sa?�da em menos de 15 minutos";
+= "Cora????o de jade";
+= "Coloque uma bola no alto do pedestal de caveiras";
+= "Potenciador de sa??de";
+= "Passe pelas 3 teias de aranha";
+= "Potenciador de muni????o";
+= "PULAR V?�DEO?";
+= "?�� SIM";
+= "?�� NÃO";
+= "Eleva????es explosivas";
+= "Escape em 3 minutos ou menos ";
+= "";
+= "Escape em 2 minutos ou menos ";
+= " ";
+= "Escape em 1 minuto e meio ou menos";
+= " ";
+= "Defesa do templo";
+= "Consiga 200.000 pontos";
+= "";
+= "Consiga 350.000 pontos";
+= "";
+= "Consiga 500.000 pontos";
+= "";
+= "O covil de Leglion";
+= "Consiga 50.000 pontos";
+= "";
+= "Consiga 75.000 pontos";
+= "";
+= "Consiga 100.000 pontos";
+= "";
+= "Expectativas esmagadoras";
+= "Cruzamentos duplos";
+= "Escape em 3 minutos e meio ou menos";
+= "";
+= "Escape em 3 minutos ou menos";
+= " ";
+= "Escape em 2 minutos e meio ou menos";
+= "";
+= "Bombeiros";
+= "Consiga 50.000 pontos";
+= "";
+= "Consiga 75.000 pontos";
+= "";
+= "Consiga 100.000 pontos";
+= "";
+= "Vale enfermo";
+= "Consiga 300.000 pontos";
+= "";
+= "Consiga 450.000 pontos";
+= "";
+= "Consiga 550.000 pontos";
+= "";
+= "Com unhas e dentes";
+= "Sopa de enigmas";
+= "Escape em ? minutos ou menos";
+= "";
+= "Escape em ? minutos ou menos";
+= " ";
+= "Escape em ? minutos ou menos";
+= "Tambor de vento";
+= "Rio da loucura";
+= "Consiga 50.000 pontos";
+= "";
+= "Consiga 75.000 pontos";
+= "";
+= "Consiga 100.000 pontos";
+= "";
+= "Minigolfe maia";
+= "Lava feroz";
+= "AIM";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "Erro de Lara Croft e o Guardi??o da Luz.";
+= "Informa????o ampliada";
+= "Ocorreu um erro fatal no jogo Lara Croft e o Guardi??o da Luz. Consulte o arquivo ReadMe (Leia-me) para obter informa????es que poder??o ajud??-lo a solucionar este problema, ou chame o servi??o t??cnico de Eidos.";
+= "Mostrar informa????o ampliada";
+= "Ocultar informa????o ampliada";
+= "Você n??o tem as permissóes necessórias para jogar Lara Croft e o Guardi??o da Luz.";
+= "Lara Croft e o Guardi??o da Luz j?? est?? em execu????o nesse computador, mas n??o p??de abrir. ?� prov??vel que outro usu??rio esteja executando o jogo.";
+= "Lara Croft e o Guardi??o da Luz n??o pode ser executado em uma sessão remota!";
+= "Este jogo exige uma placa de v?�deo compat?�vel com DirectX9.0c e pixel shader 3.0, que n??o são suportados por sua placa atual.";
+= "Lara Croft e o Guardi??o da Luz só pode ser executado em um PC compat?�vel com o conjunto de instru????es SSE. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
 
-]
-[Lara Croft e o Guardi??o da Luz s?? pode ser executado em um PC compat?�vel com o conjunto de instru????es MMX. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
+";
+= "Lara Croft e o Guardi??o da Luz só pode ser executado em um PC compat?�vel com o conjunto de instru????es MMX. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
 
-]
-[Lara Croft e o Guardi??o da Luz exige um sistema operacional como Windows 2000, Windows XP ou superior. Por favor leia o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.]
-[Erro ao iniciar Direct3D com os ajustes atuais]
-[N??o foi poss?�vel iniciar DirectInput!]
-[Seu equipamento tem o Direct3D Debug Runtime ativado. Isto pode reduzir muito o rendimento e abaixar a qualidade dos gr??ficos.]
-[Ocorreu um erro com o controlador da tela. Seu sistema talvez n??o tenha capacidade de executar o jogo com os ajustes selecionados. Tente de novo com os mesmos ajustes ou ajuste-os para nível inferior. Verifique se tem os drivers de dispositivos para seu hardware de v?�deo e reinicie seu sistema para tentar melhorar o problema.]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[Mouse esq.]
-[Mouse centro]
-[Mouse dir.]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[Controle Xbox 360]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[?��]
-[Stick esquerdo X]
-[Stick esquerdo Y]
-[Stick direito X]
-[Stick direito Y]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[Lara Croft e o Guardi??o da Luz - Configura????o]
-[%d x %d]
-[Brilho]
-[Cancelar]
-[Contraste]
-[Adaptador de tela]
-[Anti-alias]
-[Profundidade de campo]
-[Efeitos de tela cheia]
-[Reflexos]
-[Sombras]
-[Sincroniza????o vertical]
-[Efeitos da ??gua]
-[Conte??do pr??x. gera????o]
-[Aceitar]
-[Freq. atualiza????o]
-[Configura????o gr??fica]
-[Resolu????o]
-[Voltar ao padr??o]
-[Filtro da textura]
-[Modo Anti-alias]
-[Detalhe da textura]
-[Rela????o de aspecto]
-[Triple Buffering]
-[Efeitos Volum??tricos]
-[Baixo]
-[M??dio]
-[Alto]
-[Ponto]
-[Bilinear]
-[Trilinear]
-[1x anisotr??pico]
-[2x anisotr??pico]
-[4x anisotr??pico]
-[8x anisotr??pico]
-[16x anisotr??pico]
-[Erro ao iniciar Steam]
-[Deve executar Steam para poder jogar]
-[Erro ao iniciar sess??o]
-[N??o tem os privil??gios necess??rios para jogar.]
-[Livre]
+";
+= "Lara Croft e o Guardi??o da Luz exige um sistema operacional como Windows 2000, Windows XP ou superior. Por favor leia o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.";
+= "Erro ao iniciar Direct3D com os ajustes atuais";
+= "N??o foi possível iniciar DirectInput!";
+= "Seu equipamento tem o Direct3D Debug Runtime ativado. Isto pode reduzir muito o rendimento e abaixar a qualidade dos gr??ficos.";
+= "Ocorreu um erro com o controlador da tela. Seu sistema talvez n??o tenha capacidade de executar o jogo com os ajustes selecionados. Tente de novo com os mesmos ajustes ou ajuste-os para nível inferior. Verifique se tem os drivers de dispositivos para seu hardware de v?�deo e reinicie seu sistema para tentar melhorar o problema.";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "Mouse esq.";
+= "Mouse centro";
+= "Mouse dir.";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "Controle Xbox 360";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "?��";
+= "Stick esquerdo X";
+= "Stick esquerdo Y";
+= "Stick direito X";
+= "Stick direito Y";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "";
+= "Lara Croft e o Guardi??o da Luz - Configura????o";
+= "%d x %d";
+= "Brilho";
+= "Cancelar";
+= "Contraste";
+= "Adaptador de tela";
+= "Anti-alias";
+= "Profundidade de campo";
+= "Efeitos de tela cheia";
+= "Reflexos";
+= "Sombras";
+= "Sincroniza????o vertical";
+= "Efeitos da ??gua";
+= "Conte??do pr??x. gera????o";
+= "Aceitar";
+= "Freq. atualiza????o";
+= "Configura????o gr??fica";
+= "Resolu????o";
+= "Voltar ao padr??o";
+= "Filtro da textura";
+= "Modo Anti-alias";
+= "Detalhe da textura";
+= "Rela????o de aspecto";
+= "Triple Buffering";
+= "Efeitos Volum??tricos";
+= "Baixo";
+= "M??dio";
+= "Alto";
+= "Ponto";
+= "Bilinear";
+= "Trilinear";
+= "1x anisotr??pico";
+= "2x anisotr??pico";
+= "4x anisotr??pico";
+= "8x anisotr??pico";
+= "16x anisotr??pico";
+= "Erro ao iniciar Steam";
+= "Deve executar Steam para poder jogar";
+= "Erro ao iniciar sessão";
+= "N??o tem os privil??gios necessórios para jogar.";
+= "Livre";
