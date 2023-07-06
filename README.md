@@ -1,8 +1,7 @@
-# The_Lara_Croft_Collection (Lara Croft and the Guardian of Light) Tradução PT-BR
 > Status do Projeto: :heavy_check_mark: (em andamento)
 
 <h1 align="center"><figure>
-  <img src="insira o aqui o endereço">
+  <img src="The_Lara_Croft_Collection.png">
 </figure></h1>
 
 ## :small_blue_diamond:Sobre a Tradução.
