@@ -10,8 +10,7 @@
 = "Desafios de pontua????o:";
 = "Desafios de recompensa:";
 = "PAUSA";
-= "Esperando o outro jogador sair
-do menu de pausa.";
+= "Esperando o outro jogador sair do menu de pausa.";
 = "VOLTAR AO JOGO";
 = "REIN. NÍVEL";
 = "MARCADORES";
@@ -24,12 +23,11 @@ do menu de pausa.";
 = "Se recomeçar o nível, perder?? todo o progresso n??o salvo. Quer mesmo reiniciar o nível?";
 = "Esperando pelo jogador";
 = "?�? CONTINUAR";
-= "?�� REIN. N?�VEL";
+= "?�� REIN. NÍVEL";
 = "?�� SAIR DO JOGO";
 = "Quer mesmo sair do jogo?";
 = "Quer mesmo reiniciar o nível atual?";
-= "NÍVEL
-COMPLETADO";
+= "NÍVEL\nCOMPLETADO";
 = "pontos";
 = "Pressione ?�� para continuar";
 = "PRESSIONE QUALQUER BOTÃO";
@@ -53,11 +51,11 @@ COMPLETADO";
 = "BARRA DE MUNIÇÃO";
 = "SELEÇÃO DE ARMA";
 = "Você desbloqueou uma nova arma secundária. Pressione ?�� para ver o Inventário do Jogador e equipar-se com esta arma.";
-= "Sua munição ?? representada pela Barra de Munição. As armas secundárias reduziráo a Barra de Munição de forma diferente. Se ficar sem muni????o, voltar?? a usar sua arma padr??o.";
+= "Sua munição ?? representada pela Barra de Munição. As armas secundárias reduziráo a Barra de Munição de forma diferente. Se ficar sem munição, voltar?? a usar sua arma padrão.";
 = "Pressione ?�� ?�� ?�� ?�� para selecionar suas armas equipadas.";
 = "CORRER PELA PAREDE";
 = "Quando estiver enganchado a um anel, salte sobre a parede para pendurar-se.";
-= "Mova-se pela esquerda ou direita para balnçar para frente ou para tr??s enquanto estiver pendurado na corda.";
+= "Mova-se pela esquerda ou direita para balnçar para frente ou para três enquanto estiver pendurado na corda.";
 = "SALTO COM LANÇA";
 = "Lara pode saltar pelas lanças que ela cravou nas paredes ou outros objetos.";
 = "Lara pode saltar pelas lanças que Totec cravou nas paredes ou outros objetos. Se Totec tentar saltar sobre uma lança, seu peso irá quebrá-la.";
@@ -70,7 +68,7 @@ COMPLETADO";
 = "Pressione ?�� quando estiver perto de seu companheiro abatido para revivê-lo.";
 = "RELÍQUIAS";
 = "MEDIDOR DE POTÊNCIA DE RELÍQUIA";
-= "As Relíquias Equipadas dão ao seu personagem poderosas habilidades de combate. Uma só relíquia pode dar aos jogadores v??rias habilidades. Para consultar as habilidades de uma relíquia, selecione-a na janela de inventário.";
+= "As Relíquias Equipadas dão ao seu personagem poderosas habilidades de combate. Uma só relíquia pode dar aos jogadores várias habilidades. Para consultar as habilidades de uma relíquia, selecione-a na janela de inventário.";
 = "S?? poder?? usar as habilidades de uma relíquia quando o Medidor de Potência de Relíquia estiver cheio.";
 = "Para encher o Medidor de Potência, recolha gemas e mate inimigos sem sofrer danos.";
 = "Quando o Medidor de Potência estiver cheio, ele esvaziar?? por completo se receber qualquer dano.";
@@ -85,13 +83,13 @@ COMPLETADO";
 = "SANTUÁRIO DE SAÚDE DESCOBERTO";
 = "Se ficar perto de um Santuário de Sa??de, sua saúde aumentará gradualmente. Os santuários se esgotar??o se forem usados por muito tempo.";
 = "ESCONDERIJO DE MUNIÇÃO DESCOBERTO";
-= "Um Esconderijo de Munição encher?? por completo sua muni????o. Estas caixas, abandonadas pelas forças de Vasco, estão dispersas por toda a ??rea.";
+= "Um Esconderijo de Munição encher?? por completo sua munição. Estas caixas, abandonadas pelas forças de Vasco, estão dispersas por toda a ??rea.";
 = "TUMBAS COM DESAFIOS";
 = "As salas marcadas com luzes vermelhas são Tumbas com Desafios. Estas tumbas opcionais guardam tesouros exclusivos e desafios complexos.";
 = "FUZIL DE ASSALTO DESCOBERTO";
 = "Você desbloqueou uma nova arma secundária. Pressione ?�� para ver o Inventário do Jogador e equipar-se com esta arma.";
 = "BARRA DE MUNIÇÃO";
-= "Sua muni????o ?? representada pela Barra de Munição. As armas secundárias reduziráo a Barra de Munição de forma diferente. Se ficar sem muni????o, voltar?? a usar sua arma padr??o..";
+= "Sua munição ?? representada pela Barra de Munição. As armas secundárias reduzirão a Barra de Munição de forma diferente. Se ficar sem munição, voltar?? a usar sua arma padrão..";
 = "CAMINHAR PELO GANCHO";
 = "Totec pode saltar sobre a corda do gancho de Lara e fazer equilibrismo quando a corda estiver enganchada a um anel dourado.";
 = "ESCALAR PELO GANCHO";
@@ -229,7 +227,7 @@ COMPLETADO";
 = "REGENERAR SAÚDE, REGENERAR MUNIÇÃO";
 = "Cetro dourado de Cihuacoatl";
 = "REGENERAR MUNIÇÃO, DISPARO EXPLOSIVO";
-= "Os Deuses criaram este artefato para aumentar a muni????o dos guerreiros e para que sua arma tenha múltiplos ataques.";
+= "Os Deuses criaram este artefato para aumentar a munição dos guerreiros e para que sua arma tenha múltiplos ataques.";
 = "Flecha dourada de Tezcatlipoca";
 = "DISPARO EXPLOSIVO, DISPARO POTENTE";
 = "Máscara de Tezcatlipoca";
@@ -260,12 +258,9 @@ COMPLETADO";
 = "Aviso de epilepsia fotosensitiva";
 = "Se você ou algum membro de sua família tiver hist??ria de epilepsia, consulte seu m??dico antes de jogar. Certas imagens podem provocar um ataque mesmo em pessoas sem antecedentes epiléticos. Antes de jogar, leia os cr??ditos para mais informa????es.
 
-GameVicio Brasil - http://www.gamevicio.com.br";
 = "Advertência: você escolheu começar uma nova partida sem ter iniciado sessão em um perfil. N??o poder?? salvar o progresso ou ter acesso aos menus online. Quer iniciar a sessão agora?";
 = "Deve selecionar um dispositivo de armazenagem para salvar. Quer selecionar agora?";
-= "Lara Croft e o Guardi??o da Luz ?? Eidos Interactive Ltd. 2008.  Desenvolvido por Crystal Dynamics Inc. Publicado nos EUA, Canad?? e M??xico por Eidos, Inc. e Warner Bros Home Entertainment.  Publicado nos outros pa?�ses por Eidos Interactive Limited. Tomb Raider, Lara Croft e o Guardi??o da Luz, Crystal Dynamics, o logotipo Crystal Dynamics, Eidos e o logotipo Eidos são marcas registradas da Eidos Interactive Ltd. O ?�cone de classifica????o ?? uma marca registrada da Entertainment Software Association. Todas as outras marcas registradas são propriedade de seus respectivos donos.  Todos os direitos reservados.
-
-";
+= "Lara Croft e o Guardião da Luz ?? Eidos Interactive Ltd. 2008.  Desenvolvido por Crystal Dynamics Inc. Publicado nos EUA, Canad?? e M??xico por Eidos, Inc. e Warner Bros Home Entertainment.  Publicado nos outros pa?�ses por Eidos Interactive Limited. Tomb Raider, Lara Croft e o Guardião da Luz, Crystal Dynamics, o logotipo Crystal Dynamics, Eidos e o logotipo Eidos são marcas registradas da Eidos Interactive Ltd. O ?�cone de classifica????o ?? uma marca registrada da Entertainment Software Association. Todas as outras marcas registradas são propriedade de seus respectivos donos.  Todos os direitos reservados.
 = "PRESSIONE START";
 = "Quer mesmo voltar para o Windows?";
 = "UM JOGADOR";
@@ -297,83 +292,40 @@ GameVicio Brasil - http://www.gamevicio.com.br";
 = "SOM";
 = "GR?�FICOS";
 = "JOGO";
-= "CR?�DITOS";
+= "CRÉDITOS";
 = "VOLTAR AO MENU";
 = "COMO SE JOGA";
-= "CONTROLES B?�SICOS";
-= "CORRER: 
-- Use as teclas de dire????o ou o manche para mover-se para qualquer parte.";
-= "SALTAR: 
-- Pressione ?�� para saltar.
-- Segure ?�� para aumentar a dist??ncia do salto.";
-= "ESQUIVAR: 
-- Pressione ?�� e qualquer dire????o para esquivar.";
-= "LARGAR: 
-- Pressione ?�� para largar quando estiver dependurado, sobre uma lança ou em uma corda.";
-= "BOMBAS ?� DISTÂNCIA: 
-- Pressione ?�� para soltar uma bomba e ?�� de novo para detoná-la.
-- As bombas podem ser usadas para destruir ou mover objetos.";
-= "INTERAGIR: 
-- Pressione ?�� para interagir com determinados objetos.";
+= "CONTROLES BÁSICOS";
+= "CORRER: - Use as teclas de direção ou o manche para mover-se para qualquer parte.";
+= "SALTAR: - Pressione ?�� para saltar.- Segure ?�� para aumentar a distância do salto.";
+= "ESQUIVAR: - Pressione ?�� e qualquer direção para esquivar.";
+= "LARGAR: - Pressione ?�� para largar quando estiver dependurado, sobre uma lança ou em uma corda.";
+= "BOMBAS ?� DISTÂNCIA: - Pressione ?�� para soltar uma bomba e ?�� de novo para detoná-la.- As bombas podem ser usadas para destruir ou mover objetos.";
+= "INTERAGIR: - Pressione ?�� para interagir com determinados objetos.";
 = "CONTROLES DE COMBATE";
-= "APONTAR E DISPARAR: 
-- Use ?�� para apontar e disparar com as armas.
-- Com as armas sacadas, segure ?�� para dispará-las de forma cont?�nua.
-- Use ?�� para deslocar-se enquanto aponta e dispara.";
-= "APONTAR E DISPARAR: 
-- Pressione ?�� para desembainhar e o mouse para apontar.
-- Com as armas sacadas, segure ?�� para dispará-las de forma cont?�nua.
-- Pode mover-se enquanto aponta e dispara.";
-= "BOMBAS ?� DISTÂNCIA: 
-- Pressione ?�� para lançar uma bomba e volte a pressionar ?�� para detoná-la.";
-= "ESQUIVAR: 
-- Pressione ?�� e qualquer dire????o para esquivar-se de ataques inimigos.";
-= "EQUIPAR ARMAS: 
-- Para equipar novas armas, pressione ?�� e selecione a janela de inventário.
-- As armas podem ser equipadas em qualquer um dos tr??s espa??os dispon?�veis.";
-= "TROCAR DE ARMA:
-- Use ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.";
+= "APONTAR E DISPARAR: - Use ?�� para apontar e disparar com as armas.- Com as armas sacadas, segure ?�� para dispará-las de forma cont?�nua.- Use ?�� para deslocar-se enquanto aponta e dispara.";
+= "APONTAR E DISPARAR: - Pressione ?�� para desembainhar e o mouse para apontar.- Com as armas sacadas, segure ?�� para dispará-las de forma cont?�nua.- Pode mover-se enquanto aponta e dispara.";
+= "BOMBAS ?� DISTÂNCIA: - Pressione ?�� para lançar uma bomba e volte a pressionar ?�� para detoná-la.";
+= "ESQUIVAR: - Pressione ?�� e qualquer direção para esquivar-se de ataques inimigos.";
+= "EQUIPAR ARMAS: - Para equipar novas armas, pressione ?�� e selecione a janela de inventário.- As armas podem ser equipadas em qualquer um dos três espa??os disponíveis.";
+= "TROCAR DE ARMA:- Use ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.";
 = "HABILIDADES DO MODO UM JOGADOR";
-= "LANÇAS:
-- Lara pode saltar nas lanças que cravou nas paredes ou outros objetos.";
-= "CONTROLES DO GANCHO:
-- Segure ?�� para lançar o gancho de Lara num anel dourado.
-- Mova-se para cima ou para baixo para subir ou descer pela corda enquanto estiver dependurado.
-- Mova-se para a direita ou esquerda para balnçar enquanto estiver dependurado na corda do gancho.";
+= "LANÇAS:- Lara pode saltar nas lanças que cravou nas paredes ou outros objetos.";
+= "CONTROLES DO GANCHO:- Segure ?�� para lançar o gancho de Lara num anel dourado.- Mova-se para cima ou para baixo para subir ou descer pela corda enquanto estiver dependurado.- Mova-se para a direita ou esquerda para balnçar enquanto estiver dependurado na corda do gancho.";
 = "HABILIDADES MULTIPLAYER (1 de 2)";
 = "HABILIDADES MULTIPLAYER (2 de 2)";
-= "CONTROLES DO GANCHO:
-- Segure ?�� para lançar o gancho de Lara a Totec ou num anel dourado.
-- Mova-se para cima ou para baixo para subir ou descer pela corda enquanto estiver dependurado.
-- Mova-se para a direita ou esquerda para balnçar enquanto estiver dependurado na corda do gancho.";
-= "CAMINHAR PELO GANCHO:
-- Totec pode saltar sobre a corda do gancho de Lara e fazer equilibrismo quando a corda estiver enganchada num anel dourado.";
-= "LANÇAS:
-- Lara pode saltar nas lanças que Totec cravou nas paredes ou outros objetos.
-- Se Totec tentar saltar sobre uma lança, seu peso a quebrar??.";
-= "ESCUDO-PLATAFORMA:
-- Segure ?�� para levantar o escudo de Totec por cima de sua cabeça.
-- Lara pode saltar no escudo de Totec para alcançar aéreas mais elevadas.";
-= "BLOQUEIO COM ESCUDO:
-- Segure ?�� para bloquear balas e ataques inimigos.";
-= "REVIVIR SEU COMPANHEIRO:
-- Pressione ?�� enquanto estiver perto de seu companheiro abatido para revivê-lo instantaneamente.";
+= "CONTROLES DO GANCHO:- Segure ?�� para lançar o gancho de Lara a Totec ou num anel dourado.- Mova-se para cima ou para baixo para subir ou descer pela corda enquanto estiver dependurado.- Mova-se para a direita ou esquerda para balançar enquanto estiver dependurado na corda do gancho.";
+= "CAMINHAR PELO GANCHO:- Totec pode saltar sobre a corda do gancho de Lara e fazer equilibrismo quando a corda estiver enganchada num anel dourado.";
+= "LANÇAS:- Lara pode saltar nas lanças que Totec cravou nas paredes ou outros objetos.- Se Totec tentar saltar sobre uma lança, seu peso a quebrar??.";
+= "ESCUDO-PLATAFORMA:- Segure ?�� para levantar o escudo de Totec por cima de sua cabeça.- Lara pode saltar no escudo de Totec para alcançar aéreas mais elevadas.";
+= "BLOQUEIO COM ESCUDO:- Segure ?�� para bloquear balas e ataques inimigos.";
+= "REVIVIR SEU COMPANHEIRO:- Pressione ?�� enquanto estiver perto de seu companheiro abatido para revivê-lo instantaneamente.";
 = "MELHORIAS E RECOMPENSAS DO JOGADOR";
-= "RELIQUIAS:
-- As relíquias equipadas dão a seu personagem habilidades muito potentes.
-- Uma só relíquia pode dar v??rias habilidades.
-- Para ver as habilidades de uma relíquia, selecione-a na janela de inventário.
-";
-= "MEDIDOR DE RELÍQUIAS:
-- As habilidades de uma relíquia só poder??o ser usadas quando seu Medidor de Potência de Relíquia estiver cheio.
-- Para isso, recolha gemas e mate seus inimigos sem sofrer dano.
-- Quando o Medidor de Relíquias estiver cheio e sofrer algum dano, ele esvaziar??.";
-= "ARTEFATOS:
-- Os artefatos afetar??o os atributos de seus personagens de forma positiva e negativa.
-- Dois artefatos podem ser equipados para melhorar o mesmo atributo para conseguir uma força ainda maior.";
-= "MELHORIAS DE SAÚDE E MUNIÇÃO:
-- As melhorias de saúde e muni????o aumentam a capacidade m??xima de suas barras de saúde e muni????o.";
-= "SELE?�?�O DE MANCHE";
+= "RELIQUIAS:- As relíquias equipadas dão a seu personagem habilidades muito potentes.- Uma só relíquia pode dar várias habilidades.- Para ver as habilidades de uma relíquia, selecione-a na janela de inventário.
+= "MEDIDOR DE RELÍQUIAS:- As habilidades de uma relíquia só poder??o ser usadas quando seu Medidor de Potência de Relíquia estiver cheio.- Para isso, recolha gemas e mate seus inimigos sem sofrer dano.- Quando o Medidor de Relíquias estiver cheio e sofrer algum dano, ele esvaziar??.";
+= "ARTEFATOS:- Os artefatos alteração os atributos de seus personagens de forma positiva e negativa.- Dois artefatos podem ser equipados para melhorar o mesmo atributo para conseguir uma força ainda maior.";
+= "MELHORIAS DE SAÚDE E MUNIÇÃO:- As melhorias de saúde e munição aumentam a capacidade máxima de suas barras de saúde e munição.";
+= "SELEÇÃO DE MANCHE";
 = "CONFIGURAÇÃO";
 = "Ao selecionar um dispositivo de armazenamento novo, os dados salvos nele ser??o sobrescritos. Quer continuar?";
 = "CONFIGURAÇÃO";
@@ -404,21 +356,7 @@ GameVicio Brasil - http://www.gamevicio.com.br";
 = "CONTRASTE";
 = "Ajuste o brilho de forma que a imagem seja o mais brilhante possível sem que haja cores vis?�veis entre as linhas horizontais vermelhas. Ajuste o contraste só se n??o ver bem a tela.";
 = "Ajuste o brilho de forma que a imagem seja o mais brilhante possível sem que haja cores vis?�veis entre as linhas horizontais vermelhas.";
-= "Ataques epiléticos fotosens?�veis
-Uma pequena porcentagem de pessoas podem sofrer um ataque epil??ptico fotosens?�vel quando se exp??em a certas imagens visuais, incluindo os padr??es e as luzes que picam nos jogos. Mesmo as pessoas sem passado deste tipo de ataque ou de epilepsia podem estar propensas a estes "ataques epiléticos fotosens?�veis" quando fixam a visão no monitor.
-
-Estes ataques podem ter v??rios sintomas: tonturas, visão alterada, tiques nervosos na face ou nos olhos, tremores nos bra??os ou pernas, desorienta????o, confusão ou perda moment??nea da aten????o. Tamb??m podem causar perda da consci??ncia ou convulsóes, que podem causar lesóes provocadas pela queda ou trauma com objetos pr??ximos.
-
-Se sofrer qualquer um destes sintomas, pare de jogar imediatamente e consulte um m??dico. Os pais devem observar seus filhos enquanto jogam e/ou assegurar que n??o tenham experimentado os sintomas mencionados; as crian??as e os adolescentes são mais propensos do que os adultos a estes ataques. 
-
-O risco de sofrer um ataque epil??ptico fotosens?�vel pode ser reduzido tomando-se as seguintes precau????es:
-
-- Sente-se a uma dist??ncia consider??vel da tela
-- Utilize uma tela menor
-- Jogue em um ambiente bem iluminado
-- N??o jogue se estiver sonolento ou cansado
-Se você ou algum membro de sua família tiver hist??rico de ataques epiléticos, consulte seu m??dico antes de jogar.
-";
+= "Ataques epiléticos fotosens?�veis \Uma pequena porcentagem de pessoas podem sofrer um ataque epil??ptico fotosens?�vel quando se exp??em a certas imagens visuais, incluindo os padr??es e as luzes que picam nos jogos. Mesmo as pessoas sem passado deste tipo de ataque ou de epilepsia podem estar propensas a estes "ataques epiléticos fotosens?�veis" quando fixam a visão no monitor.Estes ataques podem ter v??rios sintomas: tonturas, visão alterada, tiques nervosos na face ou nos olhos, tremores nos bra??os ou pernas, desorienta????o, confusão ou perda moment??nea da aten????o. Tamb??m podem causar perda da consci??ncia ou convulsóes, que podem causar lesóes provocadas pela queda ou trauma com objetos pr??ximos.\Se sofrer qualquer um destes sintomas, pare de jogar imediatamente e consulte um m??dico. Os pais devem observar seus filhos enquanto jogam e/ou assegurar que n??o tenham experimentado os sintomas mencionados; as crian??as e os adolescentes são mais propensos do que os adultos a estes ataques. \O risco de sofrer um ataque epil??ptico fotosens?�vel pode ser reduzido tomando-se as seguintes precau????es:- Sente-se a uma distância consider??vel da tela- Utilize uma tela menor- Jogue em um ambiente bem iluminado- N??o jogue se estiver sonolento ou cansado\Se você ou algum membro de sua família tiver hist??rico de ataques epiléticos, consulte seu m??dico antes de jogar.
 = "?�? VER PERFIL";
 = "?�� PONTUA?�?�O";
 = "?�� TEMPO";
@@ -433,7 +371,7 @@ Se você ou algum membro de sua família tiver hist??rico de ataques epiléticos
 = "TEMPO";
 = "POSI?�?�O";
 = "JOGADOR";
-= "Todos os n?�veis combinados";
+= "Todos os níveis combinados";
 = "Entradas totais:";
 = "MODO COOPERATIVO";
 = "PARTIDA R?�PIDA";
@@ -453,9 +391,7 @@ Se você ou algum membro de sua família tiver hist??rico de ataques epiléticos
 = "Entrar na partida";
 = "P??g.";
 = "ESPERANDO POR JOGADOR";
-= "O outro jogador abandonou 
-a partida, esperando um 
-novo jogador entrar.";
+= "O outro jogador abandonou a partida, esperando um novo jogador entrar.";
 = "O jogador abandonou a partida, esperando um novo jogador...";
 = "?�� SAIR";
 = "ARMA";
@@ -474,7 +410,7 @@ novo jogador entrar.";
 = "... Esperando o jogador 2...";
 = "... Esperando o jogador 1...";
 = "OBJETIVOS";
-= "MAPA DE N?�VEL";
+= "MAPA DE NÍVEL";
 = "INVENT?�RIO";
 = "S?? poder?? obter o poder de uma relíquia quando seu Medidor de Potência estiver cheio.";
 = "ARTEFATOS:";
@@ -504,14 +440,12 @@ novo jogador entrar.";
 = "PLATAFORMA GIRATÓRIA 2";
 = "PROFUNDEZAS ARDENTES";
 = "Nenhum dispositivo de armazenagem foi selecionado. Deve selecionar um dispositivo ou continuar sem salvar. Quer selecionar um dispositivo de armazenagem agora?";
-= "Você terminou a versão teste de Lara Croft e o Guardi??o da Luz. Se quiser jogar mais, por favor, compra o jogo completo na Steam.";
+= "Você terminou a versão teste de Lara Croft e o Guardião da Luz. Se quiser jogar mais, por favor, compra o jogo completo na Steam.";
 = "Você obteve uma conquista. Quer comprar o jogo completo para receb??-la?";
-= "Desfruta de Lara Croft como nunca antes nesta aventura digital completamente nova.
-
-Jogue em 14 n?�veis cheios de enigmas, a????o e explora????o em modos para um jogador e cooperativos. Obtenha pelo caminho dezenas de artefatos, relíquias e armas que permitiráo desbloquear milhares de combina????es de melhorias. Controle seu personagem com aut??ntico estilo arcade.";
+= "Desfruta de Lara Croft como nunca antes nesta aventura digital completamente nova.\Jogue em 14 níveis cheios de enigmas, a????o e explora????o em modos para um jogador e cooperativos. Obtenha pelo caminho dezenas de artefatos, relíquias e armas que permitiráo desbloquear milhares de combina????es de melhorias. Controle seu personagem com aut??ntico estilo arcade.";
 = "?�? Sair";
 = "Sair";
-= "COME?�AR PARTIDA";
+= "COMEÇAR PARTIDA";
 = "Desafio 1: N??o caia nas armadilhas!";
 = "Desafio 2: Coisas que explodem!";
 = "Desafio 3: Um reencontro perigoso";
@@ -521,12 +455,12 @@ Jogue em 14 n?�veis cheios de enigmas, a????o e explora????o em modos para um 
 = "COMPRADO";
 = "ANTERIORMENTE...";
 = "AJUSTES VOLUME";
-= "SELE?�?�O DE MODO DE TELA";
-= "CONFIGURAÇÃO GR?�FICA";
+= "SELEÇÃO DE MODO DE TELA";
+= "CONFIGURAÇÃO GRÁFICA";
 = "CONTROLE";
 = "SENSIBILIDADE DO MOUSE";
-= "CONFIGURAÇÃO DE BOT?�ES";
-= "RESTAURAR PADR?�O";
+= "CONFIGURAÇÃO DE BOTÕES";
+= "RESTAURAR PADRÕES";
 = "MANCHE";
 = "CONFIGURAÇÃO";
 = "EIXOS DO MANCHE";
@@ -534,10 +468,10 @@ Jogue em 14 n?�veis cheios de enigmas, a????o e explora????o em modos para um 
 = "INVERTER EIXO Y";
 = "CONFIGURAÇÃO DO MANCHE";
 = "CONFIGURAÇÃO DE CONTROLES";
-= "VER INVERS?�O DO EIXO";
-= "OP?�?�ES DE JOGO";
-= "Inverter eixo X ao apontar e usar os bin??culos";
-= "Inverter eixo Y ao apontar e usar os bin??culos";
+= "VER INVERSÃO DO EIXO";
+= "OPÇÕES DE JOGO";
+= "Inverter eixo X ao apontar e usar os binóculos";
+= "Inverter eixo Y ao apontar e usar os binóculos";
 = "ANTIALIAS";
 = "DETALHE DAS TEXTURAS";
 = "FILTRADO DAS TEXTURAS";
@@ -585,7 +519,7 @@ Jogue em 14 n?�veis cheios de enigmas, a????o e explora????o em modos para um 
 = "Erro ao excluir.";
 = "Quer mesmo excluir o arquivo salvo selecionado?";
 = "Exclu?�do com sucesso.";
-= "Se escolher carregar a partida selecionada, perder?? os progressos conseguidos desde o ??ltimo ponto de controle salvo de Lara Croft e o Guardi??o da Luz. Quer continuar?";
+= "Se escolher carregar a partida selecionada, perder?? os progressos conseguidos desde o ??ltimo ponto de controle salvo de Lara Croft e o Guardião da Luz. Quer continuar?";
 = "N??o h?? espa??o suficiente para salvar uma partida e o autosalvamento n??o funcionar??. Selecione um dispositivo diferente ou libere espa??o. Quer selecionar um dispositivo agora?";
 = "Erro ao salvar. N??o h?? espa??o suficiente no dispositivo de armazenagem selecionado. Para que haja autosalvamento escolha outro dispositivo ou libere espa??o no dispositivo selecionado.";
 = "N??o h?? espa??o suficiente para salvar mais arquivos. Se quiser salvar mais arquivos sobrescreva um arquivo existente.";
@@ -598,7 +532,7 @@ Jogue em 14 n?�veis cheios de enigmas, a????o e explora????o em modos para um 
 = "O dispositivo de armazenagem est?? indisponível. Selecione um dispositivo ou continue sem salvar. Quer selecionar um dispositivo de armazenagem agora?";
 = "O dispositivo de mem??ria do perfil est?? indisponível. Por favor, reinsira-o de novo.";
 = "Corrompido";
-= "Lara Croft e o Guardi??o da Luz - GameVicio";
+= "Lara Croft e o Guardião da Luz - GameVicio";
 = "Criar um arquivo de autosalvamento?
 ?� preciso ter um arquivo de autosalvamento para salvar o progresso e os ajustes do jogo.";
 = "Erro ao carregar o arquivo.
@@ -664,10 +598,10 @@ Revertendo em %d segundos.";
 = "Cruze o rio sem tocar na ??gua";
 = "Potenciador de saúde";
 = "Encontre e derrote o lagarto dem??nio gigante";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "Destrua todos os caminh??es";
 = "Lagarto de argila";
-= "Melhoria de muni????o";
+= "Melhoria de munição";
 = "POTENCIADOR DESCOBERTO";
 = "Melhoria de saúde";
 = "ARMA DESCOBERTA";
@@ -690,7 +624,7 @@ Revertendo em %d segundos.";
 = "Potenciador de saúde";
 = "Sa??de";
 = "12 saltos sobre a armadilha tripla";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "Estenda a ponte em 4:00 ou menos";
 = "Duas flechas de Tezcatlipoca";
 = "Derrote Leglion, rainha de todas as aranhas";
@@ -712,12 +646,12 @@ Revertendo em %d segundos.";
 = "Destrua todas as colunas";
 = "Lagarto de argila";
 = "Destrua todas as colunas";
-= "P??ntano T??xico";
+= "Pântano Tóxico";
 = "Persiga Xolotl at?? a Tumba da Ilha";
-= "Explore o P??ntano T??xico";
-= "Busque e abra a primeira das tr??s grandes portas";
+= "Explore o Pântano Tóxico";
+= "Busque e abra a primeira das três grandes portas";
 = "Busque e abra a segunda porta";
-= "Busque e abra a ??ltima porta";
+= "Busque e abra a última porta";
 = "Consiga acesso  para a tumba do lago";
 = "O lança-granadas pode ser usado para destruir objetos distantes. Equipe o lança-granadas e dispare nos objetos destrut?�veis.";
 = "Consiga 220.000 pontos";
@@ -733,13 +667,13 @@ Revertendo em %d segundos.";
 = "Arrume a bola rolante";
 = "Potenciador de saúde";
 = "Coloque a bola em seu po??o em 30 segundos ou menos";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "Munição";
 = "Alcance a saída em 9:00 ou menos";
 = "Flecha dourada";
 = "Passagem inundada";
 = "Escape da passagem inundada";
-= "Persiga Xolotl atrav??s de suas armadilhas mort?�feras";
+= "Persiga Xolotl através de suas armadilhas mort?�feras";
 = "Consiga 120.000 pontos";
 = "";
 = "Consiga 160.000 pontos";
@@ -753,7 +687,7 @@ Revertendo em %d segundos.";
 = "Destrua todas as armadilhas de flechas";
 = "Potenciador de saúde";
 = "Destrua as 3 urnas ocultas";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "Templo da luz";
 = "Persiga Xolotl e devolva o Espelho de Fuma??a";
 = "Pressione ?�� para lançar uma bomba e volte a pressionar ?�� para detoná-la.";
@@ -766,13 +700,13 @@ Segure ?�� para levantar o escudo, depois aponte e mova-se.";
 = "Lara pode lançar a corda de seu gancho para Totec pressionando e segurando ?��. Quando estiver dependurado, mova-se para cima para escalar a parede.";
 = "Se permanecer pr??ximo a um antigo santu??rio de saúde, ela se regenerar??.";
 = "Totec pode usar a corda do gancho de Lara para andar por ela. Lara pode enganchar o mesmo ao anel dourado se pressionar e segurar ?��. Assim Totec poder?? saltar na corda e caminhar at?? o outro lado.";
-= "Pressione ?�� para agarrar a al??a dourada e mova-se para tr??s para desenganch??-la da parede.";
+= "Pressione ?�� para agarrar a al??a dourada e mova-se para três para desenganch??-la da parede.";
 = "Lara pode saltar em cima das lanças cravadas nas paredes para alcançar locais elevados.
 Pressione ?�� para trocar sua lança.";
 = "Lara pode elevar Totec com sua corda com gancho. Com Lara, aponte para Totec e pressione ?�� para lançar o gancho. Assim Totec pode saltar na parede e escalar.";
 = "Se estiver perto de uma bola rolante, segure ?�� para agarr??-la.
 Mova-se para empurrar as bolas nos inimigos ou ativar placas de pressão.";
-= "Enganche o anel dourado com ?��. Salte na parede, mova-se para a esquerda e direita para balnçar e pressione ?�� para saltar ao outro lado.";
+= "Enganche o anel dourado com ?��. Salte na parede, mova-se para a esquerda e direita para balançar e pressione ?�� para saltar ao outro lado.";
 = "Totec pode caminhar pela corda de Lara. Lara pode apontar o anel do gancho com ?�� e lan????-lo com ?��.";
 = "Use ?�� para apontar o gancho para Totec e ?�� para lan????-lo. Lara pode usar Totec como ponto de apoio para alcan????-lo do outro lado.";
 = "Dispare ou atire bombas nestes interruptores para fechar e abrir portas ou mudar objetos.";
@@ -781,7 +715,7 @@ Estas tumbas opcionais guardam tesouros exclusivos e desafios difíceis.";
 = "Segure ?�� para enganchar-se nos an??is dourados.
 Mova-se para cima para escalar as paredes.";
 = "Lara pode usar suas lanças para cruzar espa??os grandes.";
-= "Enganche o anel dourado com ?��. Salte na parede, mova-se para esquerda e direita para balnçar e pressione ?�� para saltar ao outro lado.";
+= "Enganche o anel dourado com ?��. Salte na parede, mova-se para esquerda e direita para balançar e pressione ?�� para saltar ao outro lado.";
 = "Pressione ?�� para esquivar dos ataques inimigos.";
 = "Equipe artefatos na janela de inventário para aumentar os atributos de seu personagem.";
 = "Equipe relíquias na janela de inventário para desbloquear novas habilidades no modo Guerreiro.";
@@ -802,7 +736,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Desative a armadilha de fogo de Xolotl em menos de 30 segundos";
 = "Coruja de argila";
 = "Destrua todas as urnas";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "As faces da morte";
 = "Encontre onde Xolotl te espera";
 = "Explora mais";
@@ -819,10 +753,10 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Acabe com todos os inimigos das colunas";
 = "Flecha dourada";
 = "Porta esquecida";
-= "Encontre uma passagem atrav??s desta antiga tumba";
+= "Encontre uma passagem através desta antiga tumba";
 = "Abra a Porta esquecida";
 = "Escape do templo";
-= "As bombas ?� dist??ncia podem ser usadas para mover bolas.";
+= "As bombas ?� distância podem ser usadas para mover bolas.";
 = "Consiga 140.000 pontos";
 = "";
 = "Consiga 170.000 pontos";
@@ -834,7 +768,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Alcance a sa?�da em 10:00 ou menos";
 = "Cetro dourado de Cihuacoatl";
 = "Leva todas as bolas para a sala principal";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "POTENCIADOR OBTIDO";
 = "Ande pela sala de armadilhas sem morrer";
 = "Lagarto dourado";
@@ -842,7 +776,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Potenciador de saúde";
 = "Ponte retorcida";
 = "Chegue at?? a tumba no fim do c??nion";
-= "Abra passo atrav??s do c??nion";
+= "Abra passo através do c??nion";
 = "Cruze a ponte e dirija-se para a tumba no fim do c??nion";
 = "Consiga 190.000 pontos";
 = "";
@@ -857,7 +791,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Lance bombas nas bolas de fogo";
 = "Potenciador de saúde";
 = "Destrua o escudo de um Dem??nio";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "Ventre da besta";
 = "Use o lança-foguetes para destruir a besta de lava";
 = "Consiga 30.000 pontos";
@@ -887,7 +821,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Persiga Xolotl at?? sua fortaleza do p??ntano";
 = "Derrote os outros dois guardi??es e pegue suas chaves";
 = "Derrote o ??ltimo guardi??o e pegue sua chave";
-= "Volte para a porta com as tr??s chaves";
+= "Volte para a porta com as três chaves";
 = "Consiga 150.000 pontos";
 = "";
 = "Consiga 190.000 pontos";
@@ -903,8 +837,8 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Arrombe 2 escudos com 1 caminh??o";
 = "Potenciador de saúde";
 = "Coloque a primeira bola girat??ria em seu po??o de fogo em 15 segundos";
-= "Potenciador de muni????o";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
+= "Potenciador de munição";
 = "Potenciador de saúde";
 = "Profundezas ardentes";
 = "Persiga Xolotl pelas profundezas ardentes";
@@ -925,9 +859,9 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Potenciador de saúde";
 = "Esqueletos sacrificados";
 = "Salte sobre as 6 plataformas de teias de aranha";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "Passagem da fortaleza";
-= "Encontre uma passagem atrav??s desta antiga tumba";
+= "Encontre uma passagem através desta antiga tumba";
 = "Encontre seis bolas rolantes para apagar as chamas";
 = "Escape do templo";
 = "Consiga 60.000 pontos";
@@ -943,7 +877,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Coloque uma bola no alto do pedestal de caveiras";
 = "Potenciador de saúde";
 = "Passe pelas 3 teias de aranha";
-= "Potenciador de muni????o";
+= "Potenciador de munição";
 = "PULAR V?�DEO?";
 = "?�� SIM";
 = "?�� NÃO";
@@ -5077,22 +5011,22 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "";
 = "";
 = "";
-= "Erro de Lara Croft e o Guardi??o da Luz.";
+= "Erro de Lara Croft e o Guardião da Luz.";
 = "Informa????o ampliada";
-= "Ocorreu um erro fatal no jogo Lara Croft e o Guardi??o da Luz. Consulte o arquivo ReadMe (Leia-me) para obter informa????es que poder??o ajud??-lo a solucionar este problema, ou chame o servi??o t??cnico de Eidos.";
+= "Ocorreu um erro fatal no jogo Lara Croft e o Guardião da Luz. Consulte o arquivo ReadMe (Leia-me) para obter informa????es que poder??o ajud??-lo a solucionar este problema, ou chame o servi??o t??cnico de Eidos.";
 = "Mostrar informa????o ampliada";
 = "Ocultar informa????o ampliada";
-= "Você n??o tem as permissóes necessórias para jogar Lara Croft e o Guardi??o da Luz.";
-= "Lara Croft e o Guardi??o da Luz j?? est?? em execu????o nesse computador, mas n??o p??de abrir. ?� prov??vel que outro usu??rio esteja executando o jogo.";
-= "Lara Croft e o Guardi??o da Luz n??o pode ser executado em uma sessão remota!";
+= "Você n??o tem as permissóes necessórias para jogar Lara Croft e o Guardião da Luz.";
+= "Lara Croft e o Guardião da Luz j?? est?? em execu????o nesse computador, mas n??o p??de abrir. ?� prov??vel que outro usu??rio esteja executando o jogo.";
+= "Lara Croft e o Guardião da Luz n??o pode ser executado em uma sessão remota!";
 = "Este jogo exige uma placa de v?�deo compat?�vel com DirectX9.0c e pixel shader 3.0, que n??o são suportados por sua placa atual.";
-= "Lara Croft e o Guardi??o da Luz só pode ser executado em um PC compat?�vel com o conjunto de instru????es SSE. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
+= "Lara Croft e o Guardião da Luz só pode ser executado em um PC compat?�vel com o conjunto de instru????es SSE. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
 
 ";
-= "Lara Croft e o Guardi??o da Luz só pode ser executado em um PC compat?�vel com o conjunto de instru????es MMX. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
+= "Lara Croft e o Guardião da Luz só pode ser executado em um PC compat?�vel com o conjunto de instru????es MMX. Consulte o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.
 
 ";
-= "Lara Croft e o Guardi??o da Luz exige um sistema operacional como Windows 2000, Windows XP ou superior. Por favor leia o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.";
+= "Lara Croft e o Guardião da Luz exige um sistema operacional como Windows 2000, Windows XP ou superior. Por favor leia o arquivo readme.rtf ou chame o servi??o t??cnico de Eidos.";
 = "Erro ao iniciar Direct3D com os ajustes atuais";
 = "N??o foi possível iniciar DirectInput!";
 = "Seu equipamento tem o Direct3D Debug Runtime ativado. Isto pode reduzir muito o rendimento e abaixar a qualidade dos gr??ficos.";
@@ -5181,7 +5115,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "";
 = "";
 = "";
-= "Lara Croft e o Guardi??o da Luz - Configura????o";
+= "Lara Croft e o Guardião da Luz - Configura????o";
 = "%d x %d";
 = "Brilho";
 = "Cancelar";
@@ -5199,7 +5133,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Freq. atualiza????o";
 = "Configura????o gr??fica";
 = "Resolu????o";
-= "Voltar ao padr??o";
+= "Voltar ao padrão";
 = "Filtro da textura";
 = "Modo Anti-alias";
 = "Detalhe da textura";
