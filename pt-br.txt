@@ -604,7 +604,7 @@
 = "RELÍQUIA DESCOBERTA";
 = "Tumba das aranhas";
 = "Pegue o atalho da tumba das aranhas";
-= "Encontre um caminho at?? o final da tumba";
+= "Encontre um caminho até o final da tumba";
 = "Use os contrapesos pendurados para estender a ponte";
 = "Cruze a ponte estendida e escape da tumba das aranhas";
 = "Há superfícies que podem ser destruídas com bombas. Pressione ?�� para lançar uma bomba e ?�� de novo para detoná-la.";
@@ -642,7 +642,7 @@
 = "Lagarto de argila";
 = "Destrua todas as colunas";
 = "Pântano Tóxico";
-= "Persiga Xolotl at?? a Tumba da Ilha";
+= "Persiga Xolotl até a Tumba da Ilha";
 = "Explore o Pântano Tóxico";
 = "Busque e abra a primeira das três grandes portas";
 = "Busque e abra a segunda porta";
@@ -692,29 +692,24 @@
 = "Totec pode segurar ?�� para levantar seu escudo por cima da cabeça. Quando Lara estiver em cima, poder?? usó-lo para saltar para aéreas mais elevadas.";
 = "Lara pode lançar a corda de seu gancho para Totec pressionando e segurando ?��. Quando estiver dependurado, mova-se para cima para escalar a parede.";
 = "Se permanecer proxímo a um antigo santu??rio de saúde, ela se regenerar??.";
-= "Totec pode usar a corda do gancho de Lara para andar por ela. Lara pode enganchar o mesmo ao anel dourado se pressionar e segurar ?��. Assim Totec poder?? saltar na corda e caminhar at?? o outro lado.";
+= "Totec pode usar a corda do gancho de Lara para andar por ela. Lara pode enganchar o mesmo ao anel dourado se pressionar e segurar ?��. Assim Totec poderá saltar na corda e caminhar até o outro lado.";
 = "Pressione ?�� para agarrar a al??a dourada e mova-se para três para desenganchá-la da parede.";
-= "Lara pode saltar em cima das lanças cravadas nas paredes para alcançar locais elevados.
-Pressione ?�� para trocar sua lança.";
+= "Lara pode saltar em cima das lanças cravadas nas paredes para alcançar locais elevados.\nPressione ?�� para trocar sua lança.";
 = "Lara pode elevar Totec com sua corda com gancho. Com Lara, aponte para Totec e pressione ?�� para lançar o gancho. Assim Totec pode saltar na parede e escalar.";
-= "Se estiver perto de uma bola rolante, segure ?�� para agarr??-la.
-Mova-se para empurrar as bolas nos inimigos ou ativar placas de pressão.";
+= "Se estiver perto de uma bola rolante, segure ?�� para agarr??-la.\nMova-se para empurrar as bolas nos inimigos ou ativar placas de pressão.";
 = "Enganche o anel dourado com ?��. Salte na parede, mova-se para a esquerda e direita para balançar e pressione ?�� para saltar ao outro lado.";
 = "Totec pode caminhar pela corda de Lara. Lara pode apontar o anel do gancho com ?�� e lan????-lo com ?��.";
 = "Use ?�� para apontar o gancho para Totec e ?�� para lan????-lo. Lara pode usar Totec como ponto de apoio para alcan????-lo do outro lado.";
 = "Dispare ou atire bombas nestes interruptores para fechar e abrir portas ou mudar objetos.";
-= "As salas marcadas com luzes vermelhas são tumbas com desafios.
-Estas tumbas opcionais guardam tesouros exclusivos e desafios difíceis.";
-= "Segure ?�� para enganchar-se nos an??is dourados.
-Mova-se para cima para escalar as paredes.";
+= "As salas marcadas com luzes vermelhas são tumbas com desafios.\nEstas tumbas opcionais guardam tesouros exclusivos e desafios difíceis.";
+= "Segure ?�� para enganchar-se nos anéis dourados.\nMova-se para cima para escalar as paredes.";
 = "Lara pode usar suas lanças para cruzar espaços grandes.";
 = "Enganche o anel dourado com ?��. Salte na parede, mova-se para esquerda e direita para balançar e pressione ?�� para saltar ao outro lado.";
 = "Pressione ?�� para esquivar dos ataques inimigos.";
 = "Equipe artefatos na janela de inventário para aumentar os atributos de seu personagem.";
 = "Equipe relíquias na janela de inventário para desbloquear novas habilidades no modo Guerreiro.";
 = "Use ?�� para APONTAR.";
-= "Lara pode saltar em cima das lanças cravadas nas paredes para alcançar locais elevados.
-Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.";
+= "Lara pode saltar em cima das lanças cravadas nas paredes para alcançar locais elevados.\nPressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipadas.";
 = "Consiga 100.000 pontos";
 = "";
 = "Consiga 130.000 pontos";
@@ -768,7 +763,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Coloque a bola no pedestal usando uma bomba";
 = "Potenciador de saúde";
 = "Ponte retorcida";
-= "Chegue at?? a tumba no fim do c??nion";
+= "Chegue até a tumba no fim do c??nion";
 = "Abra passo através do c??nion";
 = "Cruze a ponte e dirija-se para a tumba no fim do c??nion";
 = "Consiga 190.000 pontos";
@@ -811,7 +806,7 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Lança da escuridão";
 = "O despertar do espelho";
 = "Abra a porta para a fortaleza de Xolotl";
-= "Persiga Xolotl at?? sua fortaleza do p??ntano";
+= "Persiga Xolotl até sua fortaleza do p??ntano";
 = "Derrote os outros dois guardi??es e pegue suas chaves";
 = "Derrote o último guardi??o e pegue sua chave";
 = "Volte para a porta com as três chaves";
@@ -5121,18 +5116,18 @@ Pressione  ?�� ?�� ?�� ?�� para escolher entre suas armas equipa
 = "Sombras";
 = "Sincronização vertical";
 = "Efeitos da água";
-= "Conte??do pr??x. geração";
+= "Conteúdo próx. geração";
 = "Aceitar";
 = "Freq. atualização";
-= "Configuração gr??fica";
-= "Resolu????o";
+= "Configuração gráfica";
+= "Resolução";
 = "Voltar ao padrão";
 = "Filtro da textura";
 = "Modo Anti-alias";
 = "Detalhe da textura";
 = "Relação de aspecto";
 = "Triple Buffering";
-= "Efeitos Volum??tricos";
+= "Efeitos Volumétricos";
 = "Baixo";
 = "Médio";
 = "Alto";
