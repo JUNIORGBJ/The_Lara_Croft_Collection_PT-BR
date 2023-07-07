@@ -1,4 +1,4 @@
-> Status do Projeto: :heavy_check_mark: (em andamento)
+> Status do Projeto: :heavy_check_mark: (Concluído)
 
 <h1 align="center"><figure>
   <img src="The_Lara_Croft_Collection.png">
