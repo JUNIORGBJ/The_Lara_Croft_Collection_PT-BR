@@ -1,0 +1,45 @@
+Último patch criado.
+
+<?xml version="1.0" encoding="utf-8"?>
+<files endian="little" alignment="7FF00000">
+  <!-- FFFFFFFF = Default -->
+  <entry hash="B3AAAFD6" locale="FFFFFFFF">default\pc-w\generalbank.drm</entry>
+  <entry hash="E1C74F98" locale="FFFFFFFF">default\pc-w\menulistbank.drm</entry>
+  <entry hash="96EBCA8F" locale="FFFFFFFF">default\pc-w\menuitemsbank.drm</entry>
+  <entry hash="99FA4101" locale="FFFFFFFF">default\pc-w\levelinfosbank.drm</entry>
+  <entry hash="2CA108E6" locale="FFFFFFFF">default\pc-w\onlinedatabank.drm</entry>
+  <entry hash="1F350642" locale="FFFFFFFF">default\pc-w\cinematic_object.drm</entry>
+  <entry hash="4AFDAF54" locale="FFFFFFFF">default\pc-w\image\playerstats_larastats.raw</entry>
+  <entry hash="A2C7834B" locale="FFFFFFFF">default\pc-w\image\playerstats_warriorstats.raw</entry>
+  <entry hash="EAAA87F2" locale="FFFFFFFF">default\pc-w\image\findgame_bg.raw</entry>
+  <entry hash="C90245A2" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_xolotl_taunt_02.mul</entry>
+  <entry hash="02A35C11" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_xolotl_taunt_02_sp.mul</entry>
+  <entry hash="461E3CD6" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_brute_breakthrough.mul</entry>
+  <entry hash="8C7B283C" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_brute_breakthrough_sp.mul</entry>
+  <entry hash="1215ED35" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_xolotl_taunt_01.mul</entry>
+  <entry hash="EE41394F" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_xolotl_taunt_01_sp.mul</entry>
+  <entry hash="6CC5BFF1" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_fire_trap.mul</entry>
+  <entry hash="D26D709B" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_fire_trap_sp.mul</entry>
+  <entry hash="AC65B5A0" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_bombs.mul</entry>
+  <entry hash="E7C0078B" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\merc_death_reveal_sp.mul</entry>
+  <entry hash="4D9DA001" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_trex_death.mul</entry>
+  <entry hash="B7A19E3C" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_trex_death_sp.mul</entry>
+  <entry hash="66D60E9D" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_fish_xolotl_runs.mul</entry>
+  <entry hash="685C19A4" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_fish_xolotl_runs_sp.mul</entry>
+  <entry hash="CAA9E4B2" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_fish_xolotl_summons.mul</entry>
+  <entry hash="BFA8101E" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_fish_xolotl_summons_sp.mul</entry>
+  <entry hash="14E13575" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_time_running_out.mul</entry>
+  <entry hash="2B1D4C44" locale="FFFFFFC1">FFFFFFC1\pc-w\cinstream\igm_time_running_out_sp.mul</entry>
+  <!-- FFFFF7F0 = Spanish, Japanese, Portugese, Polish, EnglishUK, Russian, Czech, Hungarian, UnusedFlags -->
+  <entry hash="7CD333D3" locale="FFFFF7F0">FFFFF7F0\pc-w\local\locals.bin</entry>
+  <!-- FFFFF7E4 = German, Japanese, Portugese, Polish, EnglishUK, Russian, Czech, Hungarian, UnusedFlags -->
+  <entry hash="7CD333D3" locale="FFFFF7E4">FFFFF7E4\pc-w\local\locals.bin</entry>
+  <!-- FFFFF7E8 = Italian, Japanese, Portugese, Polish, EnglishUK, Russian, Czech, Hungarian, UnusedFlags -->
+  <entry hash="7CD333D3" locale="FFFFF7E8">FFFFF7E8\pc-w\local\locals.bin</entry>
+  <!-- FFFFF7E2 = French, Japanese, Portugese, Polish, EnglishUK, Russian, Czech, Hungarian, UnusedFlags -->
+  <entry hash="7CD333D3" locale="FFFFF7E2">FFFFF7E2\pc-w\local\locals.bin</entry>
+  <!-- FFFFF7E1 = English, Japanese, Portugese, Polish, EnglishUK, Russian, Czech, Hungarian, UnusedFlags -->
+  <entry hash="7CD333D3" locale="FFFFF7E1">FFFFF7E1\pc-w\local\locals.bin</entry>
+  <!-- FFFFFFC1 = English, Portugese, Polish, EnglishUK, Russian, Czech, Dutch, Hungarian, UnusedFlags -->
+  <entry hash="FA143830" locale="FFFFFFC1">FFFFFFC1\__UNKNOWN\mul\FA143830.mul</entry>
+</files>
