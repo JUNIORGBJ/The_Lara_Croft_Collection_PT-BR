@@ -285,7 +285,7 @@
    "LaraCroftGoL.Override.00255"                                              = "Lynch";
    "LaraCroftGoL.Override.00256"                                              = "Doppelganger";
    "LaraCroftGoL.Override.00257"                                              = "Aviso de epilepsia fotosensitiva";
-   "LaraCroftGoL.Override.00258"                                              = "Se você ou algum membro de sua família tiver história de epilepsia, consulte seu médico antes de jogar. Certas imagens podem provocar um ataque mesmo em pessoas sem antecedentes epiléticos. Antes de jogar, leia os créditos para mais informações.\nGameVicio Brasil e Traduções GBJ";
+   "LaraCroftGoL.Override.00258"                                              = "Se você ou algum membro de sua família tiver história de epilepsia, consulte seu médico antes de jogar. Certas imagens podem provocar um ataque mesmo em pessoas sem antecedentes epiléticos. Antes de jogar, leia os créditos para mais informações.\n\nGameVicio Brasil e Junior GBJ";
    "LaraCroftGoL.Override.00259"                                              = "Advertência: você escolheu começar uma nova partida sem ter iniciado sessão em um perfil. Não poderá salvar o progresso ou ter acesso aos menus online. Quer iniciar a sessão agora?";
    "LaraCroftGoL.Override.00260"                                              = "Deve selecionar um dispositivo de armazenagem para salvar. Quer selecionar agora?";
    "LaraCroftGoL.Override.SWI.00261"                                          = "Lara Croft e o Guardião da Luz © 2010 Crystal Dynamics group of companies. Todos os direitos reservados. LARA CROFT, Lara Croft e o Guardião da Luz, the LARA CROFT E O Guardião da Luz logo, CRYSTAL DYNAMICS, e a CRYSTAL DYNAMICS logotipo são marcas registradas do grupo Crystal Dynamics. Usa Vídeo Bink.  Copyright © 1997-2010 by RAD Game Tools, Inc.  FMOD Sound System, direitos reservados © Firelight Technologies Pty, Ltd., 1994-2010.  Todas as outras marcas comerciais são propriedade de seus respectivos proprietários. Desenvolvido para Nintendo Switch pela Feral Interactive Ltd. Nintendo Switch é uma marca registrada da Nintendo. Feral e o logotipo Feral são marcas comerciais da Feral Interactive Ltd. Todas as outras marcas comerciais são propriedade de seus respectivos proprietários.";
@@ -981,13 +981,13 @@
    "LaraCroftGoL.Override.00966"                                              = "Escape em 1:30 minutos ou menos";
    "LaraCroftGoL.Override.00967"                                              = ""; //empty
    "LaraCroftGoL.Override.00968"                                              = "᠁ Restaurar padrões";
-   "LaraCroftGoL.Override.00969"                                              = "Alter arma";
+   "LaraCroftGoL.Override.00969"                                              = "Alterar arma";
    "LaraCroftGoL.Override.00970"                                              = "Mover";
    "LaraCroftGoL.Override.00971"                                              = "Diário / Inventário";
    "LaraCroftGoL.Override.00972"                                              = "Menu de Pausa";
    "LaraCroftGoL.Override.00973"                                              = "Garra de Fogo";
    "LaraCroftGoL.Override.00974"                                              = "Atirar";
-   "LaraCroftGoL.Override.00975"                                              = "Derrubar / Detonar Bomba";
+   "LaraCroftGoL.Override.00975"                                              = "Derrubar/Detonar Bomba";
    "LaraCroftGoL.Override.00976"                                              = "Esquivar";
    "LaraCroftGoL.Override.00977"                                              = "Saltar";
    "LaraCroftGoL.Override.00978"                                              = "Interagir";
